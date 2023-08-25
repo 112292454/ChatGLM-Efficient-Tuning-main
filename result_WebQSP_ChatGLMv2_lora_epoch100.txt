@@ -1,0 +1,11 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "F:\正事\科研训练\ChatGLM-Efficient-Tuning-main\src\train_bash.py", line 1, in <module>
+    from pet import get_train_args, run_sft, run_rm, run_ppo
+  File "F:\正事\科研训练\ChatGLM-Efficient-Tuning-main\src\pet\__init__.py", line 1, in <module>
+    from .core import get_train_args, get_infer_args, load_model_and_tokenizer
+  File "F:\正事\科研训练\ChatGLM-Efficient-Tuning-main\src\pet\core\__init__.py", line 1, in <module>
+    from .parse import get_train_args, get_infer_args
+  File "F:\正事\科研训练\ChatGLM-Efficient-Tuning-main\src\pet\core\parse.py", line 3, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'

@@ -1,0 +1,4347 @@
+[
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "浙大现在的校长是哪个来着?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "浙大以前是哪间学校啊?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "想去浙大应该去哪个地址呢?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "使用反向平衡法兰的好处是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "云南人民出版社的《举报》是哪年出的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《偷心海盗船》是什么类型的作品?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "香港国家地质公园有多大?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "Incoloy825这种合金有什么特点?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "补建是哪里人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《独笑沧海》可以在哪个地方看?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在若樱町玩可以去哪些景点?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "一本《优秀学生必知的物理奥妙》卖多少钱啊?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "那个卖防盗门的日上集团有多少工作人员?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "曹绪炳是干什么的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《后梁山时代》是什么时候开始连载的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "姓高的人的老祖宗是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "罗旻是哪里毕业的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "罗旻的学校的校长是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "罗旻的校友有谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "陶昕然的母校是哪年创立的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "吕守贵毕业学校的地址是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "下载贵阳青年需要多少存储空间?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "以白夜凛音为主角的游戏的最新版本是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "有哪些星蕨属的植物?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "春节运动会是什么事情的戏称?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《冷宫记事》是哪位文豪写的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "若歌诗属于那个科?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "安泰矿业是间什么性质的公司?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "迷人的喇叭裤是什么样的游戏?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "被封为德妃的妃子的本名都是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《方洲新概念·读经典学语文：中华上下五千年》有多厚?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "批批吉公司是什么时候诞生的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "麻辣火锅鸡是用什么做的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "黑芒妖狐是在哪部漫画里出现的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "塌屁熊跳跳用英语怎么说?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "我要上哪个网才能看《穿越之恶魔天使对对碰》?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在山东的葛家屯村可以开发哪些自然赋予的财富?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "O型的车位锁需要用什么电池?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "名为绍祚中兴的牌匾是什么时候写下的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "房震唱过什么歌?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "烽火之城的作者的名字出自哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "舒名珠是哪里人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "金银蛋和菠菜一起做清汤吃会有不良反应吗?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《甘棠驿》的作者还写过什么作品?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《甘棠驿》的作者官至何职?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《甘棠驿》的作者是什么时候的人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "窃乞是啥意思?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在哪里可以玩到小马的芭蕾舞团?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "海马度假酒店在的地方有什么别称?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "海马度假酒店在的地方进去收多少钱?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "马生宝是什么时候生的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "烈焰焚情是什么时候播出的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "烈焰焚情的主演都有多高?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "烈焰焚情里主角现实里的配偶都有谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "烈焰焚情里主角是什么星座?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "马戈是哪个族的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "一般人们又管仕头村叫什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "可以阅读《重生在俄罗斯帝国》的网站是啥时候诞生的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "可以阅读《重生在俄罗斯帝国》的网站是哪间公司旗下的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "你看《重生在俄罗斯帝国》的网站用英语怎么说?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《俄语语言国情学》的作者是哪国人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《俄语语言国情学》的作者的信仰是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《俄语语言国情学》的作者什么时候去世的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "下载大眼先森要预留多少空间?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "姓很的人里出过哪些名人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在河西沟村有多少党员?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "写《晨》的人是哪里毕业的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "写《晨》的人都有哪些信仰?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "写《晨》的人是哪里人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京大学有多少个博士后流动站?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "逃学威龙2的主演的外文名是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "逃学威龙2的主演属什么的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "逃学威龙2的主演的出生地是哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "“思想自由兼容并包”的大学校有多少个博士后流动站?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "学校代码是10001的大学，目前有多少个博士后流动站?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "嬴政的信仰是?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "嬴政继承人是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "嬴政在位时间是?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "嬴政死于哪一年?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "华为的公司性质是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "华为董事长是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "华为的主要产品有哪些?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "华为的成立时间是哪一年?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "华为的员工有多少?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "钟南山参与过哪些抗疫战役?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "钟南山的籍贯是?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "钟南山研究方向是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "钟南山出生在哪?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "钟南山从哪毕业的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《传染病学第3版》是谁的重要成果?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "咳嗽的病因?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《枫之轨迹》连载在什么地方?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《枫之轨迹》进度如何?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "鲁迅的妻子是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "鲁迅字什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "鲁迅的学历是?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "鲁迅参与了哪些运动?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "佩妮莱·费舍尔·克里斯滕森导演的丹麦喜剧片叫什么名字?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "Porsche AG的创始人出生于?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "特立尼达老虎尾主要分布在哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "罗布泊的海拔有多高?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "著名戏剧作品《麦克白》创作于什么时候?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "广州市有哪些别名?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "罗赖马山在哪?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "马特洪峰在今天哪个国家?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "支持向量机算法是什么时候提出的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "红嘴黑鸭的拉丁学名是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "诗人贺知章有哪些代表作品?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "瑞典的首都在哪?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "电影《教父1》的导演是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "拜仁慕尼黑的主场是哪座球馆?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "蓝色的多瑙河这首作品有什么特点?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "七冠王刘易斯·汉密尔顿有哪些昵称?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "斯鲁伊斯海战标志着什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "日本首都的机场叫什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "莎翁创作了哪些著名作品?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "小说《基督山伯爵》的作者是哪国人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "冯小刚和葛优合作参演了哪部电影?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "周润发和葛优合作参演了哪部电影?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "导演北野武和演员真木藏人合作出品了哪些电影?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "代码是10003的学校，校训是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "首都是伯尔尼的国家，都说哪些语言?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "被誉为“万岛之国”的国家，国花是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "丹麦使用的政体，还被哪些国家采用?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "尤塞恩·博尔特的国家位于哪个大洲?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京奥运会男子100米世界冠军是哪国人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "瑞典首都有多大?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "有哪些欧洲国家，它们的首都同时也是它们的最大城市?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪些影视作品是在罗马尼亚首都拍摄的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "郑州若禹教育主要做哪些业务?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "卡西欧E-F500WE有多沉?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "花田鸡所述的科用拉丁文怎么说?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "有哪些生物与朱鹀同属?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "花田鸡所属的科有多少种生物?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "有多少种鸟与董鸡同科?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "鸟类分类学中，哪个科既包含了锈喉鹩鹛，又囊括了白斑尾柳莺?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪种鸦科鸟类又被称为飞驳鸟?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "有哪些鸟类同时分布于甘肃和青海省?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "青、藏地区有多少种植物?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "青海省内可以看到哪些啄木鸟?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京市内可以看到什么鞘翅目的昆虫?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在中国的首都，可以看到哪种鸫?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "中国的国歌是哪类乐曲的典范?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "中国国歌是?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "上海又叫啥?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "上海的市花还是哪些地方的市花?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "中国的城市有哪些市花?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "世界上一共有多少种国花?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "所谓的深圳精神是指什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "深圳的市树属于哪个目?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "有一座城市以黑脸琵鹭为市鸟，该市的别名有?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "深圳特区的电话区号为?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "龙苍沟国家森林公园什么时候获批成立的啊?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪家公园位于四川省阿坝州小金县?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "拉萨有哪些公园?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "“春城”的市花市树是什么",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在大理应该去哪坐飞机?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "美丽的鸥嘴噪鸥用英文怎么说?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "柯达公司生产了哪些产品?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "红崖子沟乡是啥气候?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "武大第一任校长是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "张之洞哪年出生的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "南大有多少博士点?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "沈之琳是哪个经纪公司的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "第四版无机及分析化学啥时候出版的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "高教出版社是谁题的名?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "蔡文姬原名是啥?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《小团圆》作者是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "张爱玲什么时候去世的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "邓颖超丈夫是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "王力先生是哪个民族的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "贵州安顺有多大?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "枫叶是哪国国花?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《朝花夕拾》哪年成书的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《棠梨煎雪》的演唱者是哪所学校毕业的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "临姐是啥星座的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "SNH48 里谁在上海出生并且出演了《恋爱捉迷藏》",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "永乐年间的那个皇帝在哪去世的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "李虎是在哪个网站写小说?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "笔名叫梁京的哪个作家是啥血型?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "义勇军进行曲的作者祖籍在哪?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《中国历史地图集》的编纂者信仰是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "淘宝的创始人花名是啥?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "聂双全什么时候去世的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "川菜里啥菜要用豆瓣酱和红辣椒做?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "大表姐蚊子哪里出生的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "因材施教的提出者是哪个时代的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "叔梁纥的孩子啥时候出生的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "亓官氏的丈夫原名叫什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "安徽有哪些机场?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "安徽哪里有机场?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "安徽有哪些方言?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "安徽省省长在哪里出生的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "安徽省省委书记毕业于哪所学校?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "安徽省省会是哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "安徽省省会占地多少?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "安徽省省会的外文名是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "安徽省省会有哪些大学?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "安徽省省会有哪些地标性建筑物?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪些国家盛产葡萄酒?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "蔡依林有哪些代表作?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "蔡依林的唱片公司旗下有哪些艺人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "蔡依林的唱片公司旗下有哪些子公司?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "蔡依林的唱片公司总部在哪?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "蔡依林的唱片公司英文名是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "太平洋哪里最深?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪里盛产水果捞的原料?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪里盛产辣椒擂皮蛋的原料?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪里盛产法式面包酱的原料?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "吃什么能清火?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "吃什么对眼睛好?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "夏天吃什么解暑?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "喝青蒿酒有什么好处?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "没胃口的时候要吃什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "大麦斑驳花叶病毒的寄主一般生长在哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪些生物会寄生在中药植物上?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "芦竹根属于什么属?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "芦竹属下有哪些植物?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "有哪些大学希望成为世界一流大学?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "陈思成做导演以后，请刘昊然主演的片子有什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "白居易的那首《长恨歌》一共有多少字?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁统一了度量衡?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "柔妃掬心何人所著?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "何昊阳是哪所大学的毕业生?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": " 环美健身是哪家公司开的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "怎么用英语说开普敦议会大厦?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁写了《中韩日三国国剧艺术》?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "运动解剖学图谱是哪家出版社出版的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "做酸辣藕丁全麦包需要什么材料?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "咖喱大排的口味特点是?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "蚝油鱼肚的菜肴口味是?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "煎猪肉排需要什么辅料",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "复方地塞米松乳膏是处方药吗?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "月映血狼连载在什么网站上?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "高姓的郡望是哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "赵日格图是什么民族的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "郑亦秋的曾用名?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "金针菇拌芹菜这道菜的主要材料?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "万银财富什么时候成立的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "阳新经济开发区占地多少?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁写的<点绛唇·闺思>?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《方洲新概念·读经典学语文：中华上下五千年》这本书有几页?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": " <篝火圆舞曲>的作曲家属于什么民族?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "总部在北京的公募基金有哪些?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "<点绛唇·闺思>的作者是什么朝代的人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "出生在英国的天秤座人物?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "出生在英国的天秤座娱乐明星?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "出生在英国的天秤座娱乐明星，并且他或她还获得过大不列颠王国勋章?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "出生在剑桥的大不列颠王国勋章获得者",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "中国国籍的汉族特级教师?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "毕业于南京师范大学的中国国籍的汉族特级教师?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在西安读过书的中国国籍的汉族特级教师?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《征服的挽歌》是什么时候出来的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "高可江是做什么的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "康富威科技总部是哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "郑新民的工作单位在哪个地区?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "郑新民的工作单位的校训是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "郑新民的工作单位占地面积有多大?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "郑新民的工作单位最早是由谁创办的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京大学的英文名是?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京大学的地址是?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "主管北京大学的是哪个部门?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北大有几个国家重点学科?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "清华在北京哪个区?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "主管清华大学的是哪个部门?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "清华的学校代码是多少?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北大的学校代码是多少?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "新乐府运动的主要倡导者是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "白居易出生于何时?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "白居易是什么时候逝世的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《卖炭翁》的作者是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "刘昊然什么时候生日?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "刘昊然有多高?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "刘昊然是什么星座的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "新乐府运动的主要倡导者出生于何时?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "新乐府运动的主要倡导者死于何时?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《卖炭翁》的作者是哪个朝代人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《卖炭翁》的作者出生于何时?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《卖炭翁》的作者死于何时?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "“北京大学生电影节最佳新人奖提名”和“尖叫2016爱奇艺之夜年度最受欢迎新人奖”这两个奖项都获得过的是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "“北京大学生电影节最佳新人奖提名”和“金票根影迷嘉年华气质新星”这两个奖项都获得过的是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "“尖叫2016爱奇艺之夜年度最受欢迎新人奖”和“金票根影迷嘉年华气质新星”这两个奖项都获得过的是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪个出演过唐人街探案的演员是天秤座?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪个出演过唐人街探案的演员出生于河南且隶属于上海骋亚公司?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪个出演过唐人街探案的演员出生于平顶山市?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪位出生于河南、隶属于上海骋亚公司的艺人出演过北京爱情故事?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪位隶属于上海骋亚公司的艺人获评过“尖叫2016爱奇艺之夜年度最受欢迎新人奖”?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪位隶属于上海骋亚公司的艺人获评过“金票根影迷嘉年华气质新星”?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪位隶属于上海骋亚公司的艺人获评过“北京大学生电影节最佳新人奖提名”?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "贾兰的爷爷在历史上的人物原型是谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《红楼梦》中薛蟠的妹妹住在哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《红楼梦》中林黛玉出生在哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京大学的校址在哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "Tsinghua University的校训是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "浙江大学现任校长的入党时间是哪年哪月?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《窦娥冤》的作者是哪个民族的人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "成语沐雨栉风来源于什么典故?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "帝辛的主要成就有哪些?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "姜尚的主要成就有哪些?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "烽火戏诸侯涉及的历史人物有谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "孔子的教育思想有哪些?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "庄周是哪一年去世的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "春秋时期吴国的最后一位国君在位期间有什么成就?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "战国时期苏秦的同门官至什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "嬴政信仰什么思想?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "秦始皇的继承人的结局如何?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "刘邦的陵寝里葬的谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "汉武帝的陵寝位于哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "曹操有什么代表诗作?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "二郎神杨戬的武器是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪吒出生在哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "三国时诸葛亮又被称为什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "吕布被人称为什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "司马懿哪一年去世的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "苻坚在位期间有什么成就?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "杨广的庙号是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "唐玄宗李隆基时期的年号有哪些?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "卢俊义在梁山排行第几?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "闯王李自成建立了什么政权?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "马雷岛有什么物产?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "关坤帮的一生有什么成就?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "我准备去侯家小寨村玩，那边一般有多热啊?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《定风波·红梅》是什么时候写的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "写《定风波·红梅》的人生于什么时候?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《定风波·红梅》的作者卒于什么时候?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "写《定风波·红梅》的人字什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "写《定风波·红梅》的人死后被追封为什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "李万奎是什么时候来到这个世界上的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "库里克罗又被叫做什么名字?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "江苏之战一共涉及了多少士兵?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "晏宗望是什么时候的人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "踢球的奥克斯的祖国有多少人民?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "踢球的奥克斯的祖国的人都是哪个族的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "踢球的奥克斯的祖国有哪些大城市?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "踢球的奥克斯的祖国的首都是哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "踢球的奥克斯的祖国的首都的车牌代码是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "踢球的奥克斯的祖国的首都属于哪个时区?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "踢球的奥克斯的祖国的首都有多大?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "邙岭路街道是什么时候开始有的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《朝鲜龙南山电视台》播出的时候，里头的演员都说什么语言?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "库加拉·尤西有多高?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "浙江省生态文化协会是什么时候成立的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "宋吟玲是做什么工作的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《国计学》是哪个出版社出版的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "李华兴是什么民族的人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "小新厂村占地多大?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《颠倒佛界》在哪里可以看?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "J·布迪英是哪里人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "介绍一下颜料红144这种颜色吧?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "介绍一下东晋越窑青瓷盘口壶的尺寸吧?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "卡萨戈尔达是什么时候出生的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "樊敬的一生有什么成就?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "辽宁的姜彪是什么时候出生的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "沈小平的母校是?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "钱渊是哪里人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "深圳的时代金融中心什么时候开始售卖的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "M—106A1式自行迫击炮有多大的口径?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "洋葱披萨是用什么做的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "胡悦是什么星座?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "胡悦拍过什么作品?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "安庆的郑红在教学上评上了什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "杨青艳是什么性别?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "公交三烈士是什么性别?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "苏州的环源公司是做什么的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "覃海明是哪个民族的人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "标致407有多重?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "车身重量1660千克，前置前驱的汽车的座位数有多少?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "车身重量1660千克，前置前驱的汽车的尺寸是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "车身重量1660千克，前置前驱的汽车能装多少油?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "车身重量1660千克，前置前驱的汽车的轴距是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "山田英二是做什么工作的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《无生太极》现在更新情况如何啦?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在哪里可以读《楚汉别传》?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《中国老年实用大全》多少钱一本?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "长春的王占礼是做什么的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "董成义是什么时候牺牲的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "帕特里克·斯赤尼尔是哪里人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "小叶桦属于哪一族?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《蓝镜传说》是哪年出来的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "枣杏焖鸡对什么病好?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "吴运鸿的老家的邮政区码是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "吴运鸿的老家的车牌代码是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "吴运鸿的老家有哪些著名大学?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "吴运鸿的老家的人均GDP是多少?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "次仁央宗是做什么工作的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "旧孟津用英语怎么说?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "翡翠皮蛋羹是用什么做的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "寅阶是什么意思?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "车牌代码为粤B的城市，其别名有什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "清华大学现任校长的出生地是哪里?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "清代文学家曹雪芹的主要作品的外文名称是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "bilibili董事长的星座是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁是腾讯的创始人和法定代表人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "出自名著《红楼梦》的成语有哪些?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "制作动漫《轻音少女》的公司还制作过哪些作品?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "由骨头社制作，钉宫理惠配音的作品有哪些?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "与中药虎杖同一目的植物有哪些?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《梦游天姥吟留别》作者所处的时代中，有哪些诗人?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "用奥利奥能做什么甜品?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "动画《九色鹿》的发行公司是什么时候成立的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《爱乐之城》的导演是哪些电影的编剧?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《醉翁亭记》的作者写过什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "派大星原型的拉丁学名是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "章鱼哥和派大星什么关系?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "檀香科有哪些植物?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "英文是Warfarin的药物，其分子式是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "李纨的儿子别名是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "1998年上映了哪些电影?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "贝多芬老师的代表作有什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "岛崎信长和樱井孝宏同时给哪些作品配过音?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "正山小种属于哪类茶?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "阿加莎·克里斯蒂写过什么小说?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在横店拍过哪些电视剧?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "傈僳族的从政人员有谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "小说《哈利波特》里登场的男性角色有谁?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "凉宫村日所在的社团？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "无间道中的主演中同时是歌手的人有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "诸邑公主的父亲的庙号是什么?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "参与1776年8月2日签署某法案的英国人？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "莉薇娅·杜路莎·奥古斯塔所在的国家的主要宗教是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "用于制作原子弹的金属是什么时候发现的?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "世界上第一台电子多用途计算机的重量",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "代表食物是烤包子的民族所信奉的宗教？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "招牌动作是后仰跳投且有6次总冠军的篮球人物是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "中国人民大学所在的城市总人口数量是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "沙丘战役所在的地点的气候类型？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "获得了15座金曲奖的歌手身高是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "提出狭义相对论的科学家出生日期?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "对莫言有影响的作家的代表作品？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "波兰首都的面积大小是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "钢铁侠的主演是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京大学的学术传统？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁迁都到北京的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "被誉为现代通话之父的人是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "渡江战役的参战兵力是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "太平洋的平均盐度？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "任天堂的主要的游戏系列有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "游戏神秘海域所在的游戏平台的生产商是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "方正集团的公司口号是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "iPhone 所搭载的操作系统是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "第一个进入太空的地球人是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "十月革命发生的地点?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "南水北调工程涉及的地区？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "安卓的发行商是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "华为总裁的出生地？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "刺客信条系列是哪个公司开发的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "塞尔达传说的主角在哪些游戏中有出场？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "零系列的最新作是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "微软和343共同开发了什么游戏？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "Valve开发了哪些FPS游戏？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "与彩虹六号：围攻同一原作者的末日主题游戏是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "战舰世界的开发商什么时候成立的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "PS4能玩到哪些文字冒险类游戏？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "初音为主角的游戏是哪个公司开发的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "黑魂的发行商全称是？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "\"第六天魔王\"有哪些成就？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "伊达政宗生活的时代是在哪一年开始的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "川端康成的作品中有岛村这一角色的是哪一部？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "宫泽贤治写过哪些诗歌？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "船中八策的提出者参与的一个历史事件发生在什么时候？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "日本战国三英杰中被称为猴子的那一位的坟墓在哪？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "大正浪漫的提出者什么时候去世的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "逆转裁判在3ds上有哪些作品？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "三岛由纪夫的一篇长篇小说发表于什么时候？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "镰仓幕府是何时灭亡的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "有哪些动画监督兼演出的人？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "生化危机一共有哪些主角？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "T病毒又称？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "命运石之门可以在哪些平台上玩到？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "生于东京，身高只有152的声优有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "水濑祈的绰号是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "天元突破的监督是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "士官长来自哪个地方？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "3ds有哪些特色？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "街机版偶像大师是什么时候发行的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "书籍《四松堂集》被收藏于何处？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京大学图书馆是于何时建馆的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "新西兰属于哪个洲？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "新西兰这个国家的主要宗教有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "足球运动员马里诺维奇属于哪个球队？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "足球运动的最高赛事是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "金垃圾奖属于哪个领域的奖项？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "意大利这个国家的国土面积是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "天主教的创始地点在何处？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "天主教的教徒有哪些禁忌？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "漫画蜡笔小新出版于哪一年？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "动漫蜡笔小新一共有多少集？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "小山义治是哪部动漫作品中的人物？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "鲁迅先生的主要成就有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "散文诗《希望》出自哪部诗集？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "鼠标的发明人毕业于哪个院校？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "被誉为目前卓有成就的日本指挥家之一的指挥家其别名是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "被称作中国“硅谷”的地方在哪里？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "以极简主义为理念的这家公司其总部位于何处？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "竣工于1421年的属于历史博物馆_（公共建筑）的建筑是哪一个？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "张择端所绘的被誉为\"中国十大传世名画之一\"的是哪幅作品？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "明成祖朱棣的年号的前一任是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "唐朝的一位贵妃，其又被称为玉奴，请问她的本名是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "司马迁所著的著名纪传体通史，其中包括乐毅列传的是哪一部？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "无颜见江东父老这句话的出处作品的文学体裁是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《项羽本纪》的文学体裁的特点是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《宋微子世家》和《曹相国世家》都属于哪种文学体裁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "瓮牖绳枢之子这句话出自于谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《心学四诀》的作者是的别名是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "创立“阳明心学”并成功剿灭南赣盗贼的明代哲学家是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "电话区号为5910599的省份的省会是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "信用媒介论的代表人物有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "由圆谷英二导演的特摄片有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "刘伟强导演的作品中，有郭富城和郑伊健作为主演的作品有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "战国时期武安君的主要成就有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "天主教的教理有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "夏洛特黄蜂队的控球后卫毕业在哪个大学？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "H1N1猪流感的症状有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "南阳三大宝中又叫做烫画的是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《我们的答案》的歌手背后的经纪公司是？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "姬世晓的民族使用的官方语言是？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "红楼梦散的歌手出生于何地？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "粤台经贸合作试验区的车牌号是？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "被赞誉为中国之父的科学家是何时出生的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "湖南地区的方言有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "被称作荧惑的行星的直径是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "何大仁毕业的大学的是什么时候创办的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "漳州有哪些大学？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "用枸杞和雏鸽烹饪的汤是什么口味的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "追梦赤子心是哪个乐队演唱的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "阿里音乐人由什么组成？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "李渊的主要成就是？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "晋阳起兵是什么时候发生的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "意见派的又被叫做什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "福尔摩斯的作者是哪个民族的人？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "使用意大利语和欧元的地方有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "我国首都的邮政区码是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "文化苦旅的作者是从哪个学校毕业的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "马化腾和陈一丹共同创立的公司有多少员工？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京大学有什么样的学术传统？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "白居易诞辰是什么时候？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁是新乐府运动的主要倡导者？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《卖炭翁》属于什么体裁的诗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《白氏长庆集》共计多少卷？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《貘屏赞》出自哪本集子？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《忆江南三首》是什么时代的诗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "苏轼的谥号是？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪位历史名人被称为“苏仙”？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《掷凫猎兔》是谁写的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《送欧阳推官赴华州监酒》是一首什么体裁的古诗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁是豪放派的主要代表人物？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "陈思成毕业于哪所大学？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "陈思成的粉丝自称为什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁是陈思成的妻子？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "“珠落玉盘”这个成语出自谁的作品？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "著名诗人白居易写过哪些讽喻诗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "与《醉中留别杨六兄弟》出自同一本集子的七言绝句有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "唐代有哪些著名诗人？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谥号为“文忠”的唐宋八大家之一是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《醉饱高眠》的作者生于何时？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁同时是“唐宋八大家”和“宋四家”之一？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《北京爱情故事吧》的导演是属什么的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁同时主演过《山花情》和《愤怒的机枪》？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "出生于沈阳、主演过《碧海雄心》的演员是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "陈思成同时担任主演和导演的影视作品有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "2003年上映了哪部剧是陈思成、刘涛等人主演的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "由陈思成主演的剧情剧有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在2013年内相继获得“最具演技女演员奖”、“十大正能量女性”等荣誉的是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "曾主演过《欢乐颂》、《芈月传》、《老有所依》等知名影视作品的演员，其配偶叫什么名字？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "梁咏琪和金城武共同主演了哪些电影？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "96黄金一代里有哪些得分后卫？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "波士顿凯尔特人队的主场在哪？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "瑞典有哪些汽车牌子？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁创设了刺史制度？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《沉默的大多数》作者的妻子是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "被封为冠军侯的军事将领有谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "伯克希尔·哈撒韦的CEO出生在哪？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁改良了蒸汽机？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "隋朝开国皇帝的妻子是什么民族的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪些艺术家出生在维也纳？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "上海三大亨都有谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《忏悔录》的作者出生在哪？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "龙珠中布尔玛的丈夫是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁证明了卡拉比猜想？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《天水围的日与夜》导演毕业于什么大学？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "文艺复兴起源于哪个国家？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "塞尔维亚的网球运动员有谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "赤木晴子的哥哥打什么位置？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《开往中国的慢船》作者是哪国人？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "死海所在国的首都是哪？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "马拉多纳身上纹了谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谁一手缔造了公牛王朝？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "曼联的右脚将有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《新闻联播》里主持人的民族有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《一代宗师》中的韩国演员有谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "台北所属国家的国歌是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "好望角在那个城市？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "拉美文学中魔幻现实主义有什么代表作？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《天龙八部》中日月神教教主有哪些绝招？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "合肥有哪些科学家？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "湖南大学现任校长是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "\"成败一知己，生死两妇人\"所说的人物有什么成就？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "\"贞观之治\"说的是哪位皇帝？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《红楼梦》中贾环的父亲的人物原型是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《窦娥冤》是谁写的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "孔丘的妻子是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "黄河的主要支流有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《红楼梦》中贾琏妻子的性格如何？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "杨振宁毕业于哪里？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "薛宝钗的哥哥的结拜兄弟叫什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "香蕉产地主要分布在我国哪些地区？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "村上春树的哪部作品出版于2007年7月1日？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "村上春树是哪个国家的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "周杰伦的英文名字是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "腾讯的法人毕业于哪里？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "获得NBA最有价值球员奖（2008）的球员出生于什么时候？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "科比的爸爸的是哪个国家的人？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "权力的游戏第五季有多少集？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "斯大林什么时候去世的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《射雕英雄传》里黄蓉的丈夫的出生于哪里？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "张智霖和香港演员朱茵共同出演的电视剧有？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "由冯柏源导演，张卫健主演的哪部电视剧首播于2002年？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "朱茵和唐嫣共同饰演过的经典角色登场于哪部作品？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "杜兰特的球衣号码是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "意大利国家有多大？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "意大利在哪个洲？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "德国的首都在哪里？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "张敬轩签的经纪公司的董事长是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "歌手王菲信仰什么宗教？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《红豆》的填词人的中文名字是？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "专辑《唱游》中有多少首歌？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "李荣浩哪首歌由黄伟文填词？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "诗人李白的祖籍的电话区号是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《送崔十二游天竺寺》是哪个朝代的诗人创作的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "诗人李白葬于何地？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "作《帝京篇》的古人的庙号是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "9·11事件的袭击形式是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "本·拉登最知名的罪行造成了多少人受伤？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "歌手赵雷在2011年8月7日发行的歌曲是属于什么音乐风格？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "易烊千玺的代表作品有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在尾田荣一郎的漫画《海贼王》中，草帽海贼团船长会使用哪些霸气？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "导演陈凯歌的儿子有哪些作品？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "漫画《进击的巨人》里，兵长身高多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "官方语言是拉丁语的国家都位于哪些洲？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "南派三叔的代表作品有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "澳大利亚的首都什么气候？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "海贼里白胡子使用什么武器？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "郭麒麟的父亲是做什么的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "法家教育思想的代表人物有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "大连985高校的具体地址是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "张艺谋导演，倪妮主演的电影有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "红高粱作者的毕业院校是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "Cola的配料有什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "腾讯的法人毕业于哪所院校？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "还在上学的河南籍演员有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "维吾尔族的演员有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "杨幂、迪丽热巴共同主演的影视剧有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京大学东门站在哪条地铁线上？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "火影忍者中，佐助妻子的配音演员是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《海贼王》中月光·莫利亚的果实有什么能力？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "被称为\"Laughing gas；dinitrogen oxide\"的气体化学式是什么",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "沈腾导演的作品有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "华为的官网是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "白羊座的守护神是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "被称为“黑曼巴”的篮球明星穿几号球衣？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "玉米的别名有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "有哪些亚洲国家参与了二战？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "日本的国歌是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "台湾省的方言是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "深圳有哪些火车站？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "美国的英文名称是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "芝加哥有哪些别名？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "旧金山属于什么气候类型？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "谷歌有哪些公司口号？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "索尼的创始人是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "清华大学的校训是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "水的沸点是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "曹县的外文名称是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《龟虽寿》是谁写的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "苏炳添有哪些荣誉呀？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "约塞米蒂国家公园里面的植被类型是什么呀？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "死海在哪个国家？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "乞力马扎罗山脉的主峰叫什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "塔希提岛的主要宗教是？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "有哪些美国歌手的经纪公司是索尼音乐？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "渔人码头所在的城市的机场是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "Android的开发商是什么时候成立的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "老炮儿是哪个地区的方言？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "大堡礁里有哪些动物呀？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪位法国数学家同时也是著名的天体力学家？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "法国首都有哪些雅称？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "邮政区码是200000的城市的市花是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "和黑脸琵鹭同一属的都有哪些动物？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "Peking University的地址在哪？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "贝多芬的哪位老师同时也出生于萨尔茨堡？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "被誉为“近代物理学之父”的科学家毕业于哪里？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "埃菲尔铁塔的设计师是哪国人？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪国科学家提出了杠杆原理？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "南美洲哪个国家说葡萄牙语？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "新子憧的声优是哪一年出道的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "东北大厦中尊贵豪华悠景双床房是什么样的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在北京金融街威斯汀大酒店附近1公里的酒店包括哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京世纪金源饭店附近带收费停车场的景点有哪些",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "故宫博物院中的延庆殿有什么历史背景？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "沈阳梵高星空艺术馆（益田假日世界店）中的恐怖沙发是什么样的啊？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "济南护城河的联系方式是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "森泊幻想岛全年都收费，有什么优待政策吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "南京有几家香格里拉品牌的酒店",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "润达奇妙萌宠乐园的最佳游玩时间是什么季节呀？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "梅溪湖国际文化艺术中心艺术馆有什么优待政策？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "大连远洲大酒店的电话是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "济南有哪些5a级的风景区？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京国贸大酒店到北京饭店有多远？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "雍和宫附近有充电车位的酒店",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "景山公园附近有哪些可以玩高尔夫球的宾馆？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "去外滩玩平均要花多少钱？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "沈阳黎明国际酒店最早几点能住？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "坐落在沈阳的辽宁省博物馆的详细地址是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "天津的独角兽星空艺术馆附近2公里的景点都有什么呀？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "重庆君豪大饭店周边5km内有哪些景点",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "凯玄国际大酒店最晚几点退房？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "南京城市名人酒店早晨几点可以入住？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "可以描述一下青岛台东附近的幻光之城星空艺术馆中水晶柱镜花宫项目吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "颐和园附近五公里有哪些酒店可以免费停车",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "梅里雪山国家公园多少钱？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "湖南省博物馆什么时候营业？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "润达奇妙萌宠乐园什么时候营业？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "厦门的时空魔方艺术馆老板电话多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "景山公园附近哪个酒店有室内的泳池啊？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "玉龙雪山蓝月谷的平均价格是多少?",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "想入住厦门艾美酒店差不多得多少钱？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "森泊幻想岛在孤山公园的什么方向？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京国宾酒店附近5公里的景点包括什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "奥林匹克森林公园的电话是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "南京的永银钱币博物馆有什么优惠政策？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "济南隶属于索菲特旗下的酒店有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "喀纳斯景区门票多少钱？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "武汉华美达光谷大酒店有wifi吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "济南护城河是什么级别的景点？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京北海公园在什么位置啊？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "广州独角兽星空艺术馆在哪所城市？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "梵高星空艺术馆（益田假日世界店）在哪所城市？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "库尔勒康城建国国际酒店内有咖啡厅吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "景山公园附近哪个酒店能对外外汇？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "据说萤火虫星空艺术馆（钟楼旗舰店）和西安梦幻星空抖乐园（钟楼旗舰店）挨得特别近，请问有多近啊？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "布达拉宫附近哪个酒店能喝咖啡？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "天津的空中之翼航空飞行跳伞俱乐部哪个季节最适合游玩？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "九寨沟有哪些优惠政策？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在綦江县的重庆·巅峰乐园玩多久才可以把所有项目玩一遍？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京金茂威斯汀饭店里面有打网球的地方吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "任何人都可以去参观辽宁省博物馆中的洞穴岁月展厅吗？有限制条件吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京雍和宫附近5公里的景点包括哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "故宫附近5km内最贵的酒店是哪一家？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "成都望江宾馆内有婚宴服务吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "杭州的孤山公园是什么级别的景点？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "故宫周末开门吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "坐火车去，瑞海姆田园度假村能接送站吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "美丽华酒店能带狗狗吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "逛完故宫博物院，然后去北京新云南皇冠假日酒店，大概多远？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "我从小就对古代家具很有兴趣，请问可以介绍一下清华大学艺术博物馆中的家具部分展厅吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "丽江泸沽湖景区车能开进去吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "景山公园的门票价格是多少呀？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "上海西郊宾馆下午最早什么时候可以办理入住？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "萤火虫星空艺术馆（钟楼旗舰店）的奇趣动漫馆项目是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "颐和园在日坛宾馆的什么方向？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在镇江隶属于喜来登的酒店有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京金融街威斯汀大酒店位于雍和宫的什么方向？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "东北大厦中豪华悠景大床房能住几个人？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "灵峰山森仙亲子教育农场内有wifi服务吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "到丽江泸沽湖什么交通路线合适？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在常熟有几个金海华丽嘉品牌下的酒店？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京国贸大酒店附近什么酒店能擦鞋呢？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "什么时候最适合去杭州西湖星空魔幻城（星空艺术馆品牌旗舰店）游玩？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京颐和园的成人门票多少钱？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京昆仑饭店周围2公里的景点有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "从湖南省博物馆到梅溪湖国际文化艺术中心艺术馆《流动的永恒》展去看展，请问大概有多远啊？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "成都家园国际酒店的早餐都有哪些种？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "从济南护城河到它最近的酒店得多远啊？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "拉萨布达拉宫5公里内有哪些酒店",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "绍兴市国际大酒店附近5km的酒店有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "玉龙雪山蓝月谷内有餐厅吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "故宫博物院中的养性殿是什么宫？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "开平潭江半岛酒店的早餐价格？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京的景山公园有哪些门票优惠政策？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "奥林匹克森林公园在哪所城市？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "珠海来魅力假日酒店所在城市是哪？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "天坛附近5km内最省钱的酒店？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "厦门星空艺术馆附近5公里的景点包括什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "从三亚的亚龙湾希尔顿大酒店出来，想换个地方住，请问附近1公里还有哪些酒店？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "西安威斯汀大酒店附近2公里都有什么好玩的？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "广州失恋博物馆附近5公里的景点包括哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "名人国际大酒店在哪个城市？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "小宋城的开封中州国际饭店哪些房间有智能门锁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "天津独角兽星空艺术馆附近有哪些可以两个人住的酒店",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "南京博物院周边哪些个酒店有健身房？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "壶山温泉中的电玩游戏厅什么时候营业啊？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "请问一下南京恋爱博物馆距离永银钱币博物馆有多远？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "去壶山温泉能带自拍杆拍照吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "颐和园在凤凰中心的什么方向？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "南京的紫金山探险公园什么季节最适合去游玩？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "布达拉宫的详细地址在哪？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "湖南博物馆是免费的吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "南京绿地洲际酒店附近5公里的景点有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "江汉路附近的梵高星空美术有母婴室吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "思南九天温泉酒店的详细地址？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "故宫博物院是什么等级的景点？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京中奥马哥孛罗大酒店的早餐多少钱？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "思丽卡尔顿酒店最晚几点退房",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "御水温泉度假酒店的平均价格是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "可以简短描述一下颐和园中玉澜堂吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "九寨沟县的风景区交通信息如何？方便推荐一下交通路线吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京天伦王朝酒店附近2公里的景点包括哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "苏州吴宫泛太平洋酒店内有游泳池吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京伯豪瑞廷酒店是哪个品牌下的酒店？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "森泊幻想岛的官方门票多少钱？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "城市在北京，离希尔顿酒店5公里内价格低于100块钱的景点包括哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "著名4A级景区赛里木湖风景区在那个城市？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "珠海来魅力假日酒店哪些房间提供影音设备？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京有哪些AAAA级以上的景点",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "在北京，国贸大酒店附近5公里的景点有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "城市在上虞区,且隶属于上虞宾馆的酒店有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "九寨沟风景区坐落在哪个城市？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "纳木错可以租婴儿车吗",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "天坛公园在北京饭店的什么方向？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "天津金皇大酒店的电话是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京嘉里大酒店附近5公里的景点都有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "贵阳世纪金源大饭店的平均价格是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "西安梦幻星空抖乐园（钟楼旗舰店）最近的酒店是哪个？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "大庆市博物馆的电话多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "长春安哥拉巨兔体验馆内有无线网吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "西湖风景名胜区在中国的哪所城市？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "厦门的时空魔方艺术馆要门票吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "国庆准备去丽江泸沽湖景区游玩，请问一下这儿的交通信息如何？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "刚到北京入住到金茂威斯汀大饭店，请问附近5000米内价格低于100的景点都有啥？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "天津哪些酒店有KTV",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "大连哪些酒店提供免费的停车场",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "蓝月谷几月去最好",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "喀纳斯景区的建议游玩几天？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "拉萨品牌为瑞吉的酒店都有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "湖南省博物馆建议游玩时长？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "《流动的永恒》展举办地址在哪？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "故宫博物院在哪所城市？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "北京国家大剧院附近2公里住哪合适？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "金狮国际酒店有没有5个人的房间？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "厦门悦华酒店入住有年龄限制吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "天河城附近的天津梵高星空艺术馆有什么优惠政策？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "西安有几家皇冠假日品牌的酒店？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "城市在泰安,且隶属于华美达的酒店都有？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "南京博物院附近1公里有哪些酒店可以入住？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "国家地理探险家中心的营业时间是什么时候？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "苏仙区公安局的地址在哪里？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "苏仙区的常住人口是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "位于苏仙区且是公立的院校是？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "所属地区是郴州市且创办时间是1943年的中学是？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "乔山画院的校长是谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "netbox支持VBScript吗？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "2012-2013中国大学及学科专业评估报告中的前五名高校是？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪些书的中文名中包含刀剑？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "湖南大学出了哪些导演？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "毕业于湖南大学的导演的代表作品有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "圣经的希伯来语名是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "英汉分子生物学百科辞典有多少页？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "有哪些出生于1990年的歌手？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "出生于1990年的歌手的代表作有哪些？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "由民主与建设出版社出版的325页的书是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "杏花轩笔记的定价是多少？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "既是小说作者又是电影作者的都有谁？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "和策佩林来自同一国家的化学家都有谁",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "诗经写作的年代采用的政治制度是什么？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "外文名为“Fenghao”的遗址发现于什么年代？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "名为“滴丸”的药物首次出现的年份的春节是哪一天？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "第二国际成立的时间也是什么节日的开幕？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪部电影的中文名中包含了功夫的同时，外文名包含了“master”？",
+        "output": "aaaaa"
+    },
+    {
+        "instruction": "生成一个 SPARQL 查询，检索与以下给定问题对应的信息：",
+        "input": "哪些学校的建校时间也是一部中文名包含亲、外文名包含love的电影的出品时间？",
+        "output": "aaaaa"
+    }
+]
