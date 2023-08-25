@@ -1,0 +1,869 @@
+{"label": "aaaaa", "predict": "select?x where { <浙江大学> <现任校长>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <浙江大学> <历史>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <浙江大学_（985工程、211工程、双一流高校）> <校园地址>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <反向平衡法兰> <优点>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <举报> <出版社>?y.?y <省份> <云南_（中国云南省）>.?y <出版社> <云南人民出版社>.?y <出版时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <偷心海盗船> <类型>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <香港国家地质公园> <面积>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <Incoloy825> <特点>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <补建> <国籍>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <独笑沧海> <文学类型> <作品原载作品>. <独笑沧海> <营业时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <若樱町> <娱乐项目名称>?x.?x <类型> <项目>. }"}
+{"label": "aaaaa", "predict": "select?x where { <物理奥妙_（高中课程）> <平均价格>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <日上集团> <员工数>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <曹绪炳> <职业>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <后梁山时代> <连载起始时间>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <高_（姓氏）> <老祖宗>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <罗旻> <毕业院校>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <罗旻> <毕业院校>?y.?y <现任校长>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <罗旻> <毕业院校>?y.?x <组成>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <陶欣然> <毕业院校>?y.?y <成立时间>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <吕守贵> <毕业院校>?x.?x <学校地址>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <贵阳青年> <下载存储空间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <白夜凛音> <游戏最新版本>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <属> <星蕨属>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <节日日期> \"春节\".?x <别称> <春节运动会>. }"}
+{"label": "aaaaa", "predict": "select?x where { <冷宫记事> <作者>?x.?x <职业> <文豪_（汉语词语）>. }"}
+{"label": "aaaaa", "predict": "select?x where { <若歌诗> <所属科目>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <安泰矿业> <公司性质>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <迷人喇叭裤> <类型>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <别名> \"德妃\".?x <本名>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <中华上下五千年_（人民邮电出版社出版发行刘敬谦主编杂志）> <厚度>?x. }"}
+{"label": "aaaaa", "predict": " select?x where { <批批吉公司> <成立时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <麻辣火锅鸡> <主要食材>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <黑芒妖狐> <出处>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <塌屁熊跳跳> <英文名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <穿越之恶魔天使对对碰> <网络>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <葛家屯村> <景点简介>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <O型车位锁> <电池>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <绍祚中兴> <牌匾>?y.?y <作者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <演唱> <房震>. }"}
+{"label": "aaaaa", "predict": "select?y where { <烽火之城_（霍达创作长篇小说）> <作者>?x.?x <国籍>?y. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <中文名> \"舒名珠\".?x <出生地>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <金银蛋> <是否有不良反应>?x. <菠菜> <是否有不良反应>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <甘棠驿> <作者>?y.?y <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <主要作品> <甘棠驿>.?y <官职>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <甘棠驿> <作者>?x.?x <出生日期>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <窃乞> <解释>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <中文名> \"小马的芭蕾舞团\".?x <简介>?y. } "}
+{"label": "aaaaa", "predict": "select?x where { <海马度假酒店> <城市>?y.?y <别名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <海马度假酒店> <城市>?y.?y <景点描述>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <马生宝> <出生日期>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <烈焰焚情> <播出时间>?x. }"}
+{"label": "aaaaa", "predict": "select?z where { <烈焰焚情> <主演>?x.?x <身高>?z. }"}
+{"label": "aaaaa", "predict": "select?x where { <烈焰焚情> <主角>?y.?y <配偶>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <烈焰焚情_（网络小说）> <主角>?y.?y <星座>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <马戈_（阿根廷足球运动员）> <族裔>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <仕头村> <村名>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <重生在俄罗斯帝国_（威廉·尤恩著小说）> <网站版次>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <重生在俄罗斯帝国_（叶尼根·伊万诺维奇·小 dis:重生在俄罗斯帝国（俄国作家托尔斯泰作品）> <作者>?y.?y <公司>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <重生在俄罗斯帝国> <英文网站>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <俄语语言国情学> <作者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <代表作品> <俄语语言国情学>.?y <信仰>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <俄语语言国情学> <作者>?y.?y <逝世日期>?x. } "}
+{"label": "aaaaa", "predict": "select?x where { <大眼先森> <下载空间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <很姓> <名人>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <河西沟村> <党员数>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <代表作品> <晨_（汉克·莱斯创作歌曲）>.?x <毕业院校>?y. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <代表作品> <晨_（诗歌作品）>.?x <信仰>?y. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <代表作品> <晨_（苏轼作诗）>.?x <出生地>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京大学> <博士后流动站数量>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <逃学威龙2> <主演>?y.?y <外文名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <逃学威龙2> <主演>?x.?x <职业> <角色扮演原声>. }"}
+{"label": "aaaaa", "predict": "select?x where { <逃学威龙2> <主演>?y.?y <出生地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <思想自由兼容并包> <大学>?y.?y <博士后流动站>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <学校代码> \"10001\".?y <博士后流动站>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <嬴政_（秦始皇）> <信仰>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <父亲> <嬴政_（秦始皇）>. }"}
+{"label": "aaaaa", "predict": "select?x where { <嬴政_（秦始皇）> <执政时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <嬴政_（秦始皇）> <去世时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <华为> <公司性质>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <华为技术有限公司> <董事长>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <华为> <主要产品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <华为技术有限公司> <成立时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <华为技术有限公司> <员工数>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <钟南山（中国工程院院士、著名呼吸病学专家）> <参与过抗疫战役>?x. } "}
+{"label": "aaaaa", "predict": "select?x where { <钟南山> <籍贯>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <钟南山> <研究方向>?x. } "}
+{"label": "aaaaa", "predict": "select?x where { <钟南山> <出生地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <钟南山> <毕业院校>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> <传染病学第3版>. }"}
+{"label": "aaaaa", "predict": "select?x where { <咳嗽> <病因>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <枫之轨迹_（Cygames开发的游戏）> <连载平台>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <枫之轨迹_（Aqours）旗下的角色能力数据> <游戏进度>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <鲁迅_（文学家、思想家）> <妻子>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <鲁迅_（中国文学家）> <字号>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <鲁迅_（文学家、思想家）> <学历>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <鲁迅_（文学家、思想家）> <涉及运动>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <导演> <佩妮莱·费舍尔·克里斯滕森>.?x <制片地区> <丹麦>.?x <类型> <喜剧_（艺术体裁）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <外文名称> \"Porsche AG\".?y <创始人>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <特立尼达老虎尾> <分布>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <罗布泊_（新疆维吾尔自治区湖泊）> <海拔>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <麦克白_（英国莎士比亚笔下戏剧）> <创作时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <广州_（广东省省会）> <别名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <罗赖马山> <地理位置>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <马特洪峰> <国籍>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <支持向量机> <提出时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <红嘴黑鸭> <拉丁学名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <贺知章_（隋朝诗人）> <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <瑞典_（瑞典王国）> <首都>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <教父1> <导演>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <拜仁慕尼黑足球俱乐部> <主场馆>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <蓝色多瑙河_（网游《魔兽世界》中的背景音乐）> <特点>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <刘易斯·汉密尔顿_（F1七冠王）> <昵称>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <斯鲁伊斯海战> <事件>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <日本_（日本国）> <首都>?y.?y <机场>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <威廉·莎士比亚_（英国戏剧家）> <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <基督山伯爵> <作者>?y.?y <国籍>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <冯小刚>.?x <主演> <葛优>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <周润发>.?x <主演> <葛优>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <导演> <北野武>.?x <主演> <真木藏人>. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <校训>?y.?x <代码> \"10003\". }"}
+{"label": "aaaaa", "predict": "select?y where {?x <首都>?a.?x <主要语言>?a.?x <所属洲>?zh.?x <所属洲>?zh.?x <语言>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <别称> <万岛之国>.?x <国花>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <丹麦_（丹麦王国）> <政体>?y.?y <全球分布>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <奥运会金牌得主> <尤塞恩·博尔特>.?x <所属洲>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <2008年北京奥运会> <田径比赛项目> <100米跑>. <100米跑> <冠军>?x.?x <国籍>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <瑞典> <首都>?y.?y <面积>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <所属洲> <欧洲_（地球七大洲之一）>.?x <首都>?y.?x <最大城市>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <拍摄地点> <罗马尼亚首都>. }"}
+{"label": "aaaaa", "predict": "select?x where { <郑州若禹教育> <经营范围>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <卡西欧E-F500WE> <重量>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <花田鸡> <科用拉丁文>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <类型> <生物>.?x <同属> <朱鹀>. }"}
+{"label": "aaaaa", "predict": "select?y where { <花田鸡> <科>?x.?x <生物>?y.?x <种类>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <董鸡> <同科>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <科> <鸟类分类学>.?x <代表动物> <锈喉鹩鹛>.?x <代表动物> <白斑尾柳莺>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <特征> \"鸦科\".?x <别称> \"飞驳鸟\". }"}
+{"label": "aaaaa", "predict": "select?x where {?x <分布区域> <青海省>.?x <分布区域> <甘肃省>. }"}
+{"label": "aaaaa", "predict": "select?x where { <青_（藏区）> <植物种数>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <栖息地> <青海_（中国青海省）>.?x <中文名> \"啄木鸟\". }"}
+{"label": "aaaaa", "predict": "select?x where { <北京市> <景点>?x.?x <实体类别> <鞘翅目>. }"}
+{"label": "aaaaa", "predict": "select?x where { <首都_（中国分区）> <首都>?y.?y <常见动物>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <中华人民共和国国歌> <类别>?y.?y <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <中华人民共和国> <国歌>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <上海_（中华人民共和国直辖市）> <别名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <上海> <市花>?y.?x <市花>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <城市_（地球表面单位）> <市花>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <国花> <世界总量>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <深圳精神> <释义>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <深圳> <市树>?y.?y <目>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <市鸟> <黑脸琵鹭>. }"}
+{"label": "aaaaa", "predict": "select?x where { <深圳特区> <电话区号>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <龙苍沟国家森林公园> <成立时间>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?y <位置> <四川省阿坝州小金县>.?y <类型> <公园>. }"}
+{"label": "aaaaa", "predict": "select?x where { <拉萨> <公园>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <春城_（云南省省会）> <市花>?x. <春城_（云南省省会）> <市树>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <大理_（云南省大理白族自治州大理市）> <机场>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <美丽的鸥嘴噪鸥> <英文名称>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <柯达公司> <产品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <红崖子沟乡> <气候条件>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <武汉大学_（中国武汉大学）> <第一任校长>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <张之洞> <出生日期>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <南京大学> <博士点>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <沈之琳> <经纪公司>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <第四版无机及分析化学> <出版时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <高教出版社> <作者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <蔡文姬_（东汉末年女性诗人）> <中文名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <小团圆_（英式改编长篇小说）> <作者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <张爱玲> <逝世日期>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <邓颖超> <丈夫>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <王力_（著名语言学家）> <民族>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <安顺_（贵州省地级市）> <面积>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <代表植物> <枫_（属双子叶植物）>. <枫叶_（加拿大国花）> <国花>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <朝花夕拾_（鲁迅散文集）> <出版时间>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <棠梨煎雪> <歌曲演唱>?x.?x <毕业院校>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <临姐> <星座>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <出生地> <上海_（中华人民共和国直辖市）>.?x <主要成就> \"SNH48成员\".?x <代表作品> <恋爱捉迷藏_（李荣浩演唱歌曲）>. }"}
+{"label": "aaaaa", "predict": "select?x where { <永乐_（永乐帝朱棣时期）> <皇帝>?y.?y <逝世地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <李虎_（作家）> <写作网站>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <笔名> \"梁京\".?y <血型>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <义勇军进行曲> <作者>?y.?y <祖籍>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <中国历史地图集> <编纂者>?x.?x <信仰>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <淘宝> <创始人>?y.?y <中文名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <聂双全> <逝世日期>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <所属地区> <川菜>.?x <烹调方法> <豆瓣酱_（反應性離子的名稱）>.?x <烹调方法> <红辣椒>. }"}
+{"label": "aaaaa", "predict": "select?y where { <大表姐蚊子> <出生地>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <因材施教> <提出者>?y.?y <时代>?x. }"}
+{"label": "aaaaa", "predict": "select?z where {?x <父亲> <叔梁纥>.?x <出生日期>?z. }"}
+{"label": "aaaaa", "predict": "select?y where { <亓官氏> <丈夫>?x.?x <别名>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <安徽> <机场>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <安徽> <机场>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <安徽> <方言>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <安徽省> <省长>?y.?y <出生地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <安徽省> <省委书记>?y.?y <毕业院校>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <安徽_（中华人民共和国安徽省）> <省会是>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <安徽省> <省会>?y.?y <面积>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <安徽省> <省会>?y.?y <外文名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <安徽> <省会>?y.?y <高等院校>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <安徽省> <省会>?cvt.?cvt <实体名称>?x.?x <象征>?y.?x <主要景点>?z. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要饮品> <葡萄酒_（饮品名称）>. }"}
+{"label": "aaaaa", "predict": "select?x where { <蔡依林_（华语流行歌手）> <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <蔡依林> <唱片公司>?y.?y <旗下艺人>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <蔡依林> <唱片公司>?y.?y <子公司>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <蔡依林> <唱片公司总部>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <蔡依林> <唱片公司>?x.?x <外文名>?y. }"}
+{"label": "aaaaa", "predict": "select?y where { <太平洋_（太平洋是目前最大、最深的大型海洋盆地）> <最深处>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <水果捞> <产地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <辣椒擂皮蛋> <原产地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <法式面包酱> <原产地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <清火> <食物>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <眼睛损伤> <食物禁忌>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <解暑> <美食>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <青蒿酒> <好处>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <没胃口> <吃什么>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <大麦斑驳花叶病毒> <寄主>?y.?y <生长环境>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <寄主>?y.?x <寄主>?z.?z <种类> <中药植物>. }"}
+{"label": "aaaaa", "predict": "select?x where { <芦竹根> <属>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <属> <芦竹属>. } "}
+{"label": "aaaaa", "predict": "select?x where {?x <属性> <世界一流大学>.?x <属性> <大学_（教育机构）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <刘昊然>.?x <导演> <陈思成_（青年导演、演员、编剧）>.  }"}
+{"label": "aaaaa", "predict": "select?x where { <长恨歌_（白居易长篇叙事诗）> <字数>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> \"统一度量衡\". }"}
+{"label": "aaaaa", "predict": "select?x where { <柔妃掬心> <作者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <何昊阳> <毕业院校>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <环美健身> <客户>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <开普敦议会大厦> <外文名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <中韩日三国国剧艺术> <作者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <运动解剖学图谱> <出版地点>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <酸辣藕丁全麦包> <主要食材>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <咖喱大排> <口味>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <蚝油鱼肚> <口味>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <煎猪肉排> <辅料>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <复方地塞米松乳膏> <是否处方药>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <月映血狼> <连载平台>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <高_（姓氏）> <郡望>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <赵日格图> <民族>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <郑亦秋> <别名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <金针菇拌芹菜> <主要食材>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <万银财富> <公司成立时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <阳新经济开发区> <占地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <点绛唇·闺思> <作者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <中华上下五千年> <页数>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <篝火圆舞曲> <作者>?x.?x <民族>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <基金类型> <公募基金>.?x <经营机构> <基金公司>.?x <总部地点> <北京_（中华人民共和国首都）>. }"}
+{"label": "aaaaa", "predict": "select?x where { <点绛唇·闺思> <作者>?y.?y <国籍>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <出生地> <英国_（大不列颠及北爱尔兰联合王国）>.?x <星座> <天秤座_（占星学）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <出生地> <英国_（大不列颠及北爱尔兰联合王国）>.?x <职业> <娱乐_（职业）>.?x <出生日期>?y. filter regex(?y, \"天秤座\") }"}
+{"label": "aaaaa", "predict": "SELECT?x WHERE {?x <出生地> <英国_（大不列颠及北爱尔兰联合王国）>.?x <职业> <娱乐明星>.?x <荣誉> <大不列颠勋章>. } "}
+{"label": "aaaaa", "predict": "select?x where {?x <出生地> <剑桥_（英国城市）>.?x <主要成就> \"大不列颠王国勋章\". }"}
+{"label": "aaaaa", "predict": "select?x where {?x <民族> <汉族>.?x <职业> <特级教师>.?x <国籍> <中华人民共和国>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <职业> <特级教师>.?x <毕业院校> <南京师范大学>.?x <民族> <汉族>.?x <国籍> <中华人民共和国>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <国籍> <中华人民共和国>.?x <毕业院校> <西安交通大学>.?x <职业> <特级教师>.?x <民族> <汉族>. }"}
+{"label": "aaaaa", "predict": "select?x where { <征服的挽歌> <出版时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <高可江> <职业>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <康富威科技> <总部地址>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <郑新民> <出生地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <郑新民> <工作单位>?y.?y <校训>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <郑新民> <面积>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <郑新民> <所属单位>?y.?y <创办者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京大学> <英文名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京大学> <学校地址>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京大学> <主要院系>?y.?x <主要职责>?y.?x <隶属单位>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京大学> <国家重点学科>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <清华大学> <所在地区>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <清华大学> <主要主管部门>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <清华大学> <学校代码>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京大学> <学校代码>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <新乐府运动> <主要倡导者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <白居易_（唐代著名诗人）> <出生日期>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <白居易> <逝世日期>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <卖炭翁> <作者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <刘昊然> <生日>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <刘昊然> <身高>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <刘昊然> <星座>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <新乐府运动> <主要倡导者>?y.?y <出生日期>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <新乐府运动> <主要倡导者>?x.?x <逝世日期>?y. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <主要作品> <卖炭翁>.?x <所处时代>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <卖炭翁> <作者>?y.?y <出生日期>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <卖炭翁_（唐代诗人罗隐诗）> <作者>?x.?x <逝世日期>?y. }"}
+{"label": "aaaaa", "predict": "SELECT?x WHERE {?x <主要成就> \"北京大学生电影节最佳新人奖提名\".?x <主要成就> \"尖叫2016爱奇艺之夜年度最受欢迎新人奖\". } "}
+{"label": "aaaaa", "predict": "SELECT?人物 WHERE {?人物 <主要成就> \"北京大学生电影节最佳新人奖提名\".?人物 <主要成就> \"金票根影迷嘉年华气质新星\". } "}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> \"尖叫2016爱奇艺之夜年度最受欢迎新人奖\".?x <主要成就> \"金票根影迷嘉年华气质新星\". }"}
+{"label": "aaaaa", "predict": "select?x where {?x <职业> <演员_（职业）>.?x <代表作品> <唐人街探案>.?x <星座> <天秤座_（占星学）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <代表作品> <唐人街探案_（2015年悬疑电影）>.?x <出生地> <河南_（中国省级行政区）>.?x <职业> <演员_（职业）>.?x <所属公司> <上海骋亚>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <职业> <演员_（职业）>.?x <出生地> <平顶山市>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <出生地> <河南_（中国省级行政区）>.?x <职业> <艺人>.?x <所属公司> <上海骋亚>.?x <代表作品> <北京爱情故事_（2013年李少红执导电视剧）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <所属公司> <上海骋亚>.?x <主要成就> \"尖叫2016爱奇艺之夜年度最受欢迎新人奖\". }"}
+{"label": "aaaaa", "predict": "select?x where {?x <职业> <艺人_（职业名称）>.?x <隶属于> <上海骋亚>.?x <获得荣誉> \"金票根影迷嘉年华气质新星\". }"}
+{"label": "aaaaa", "predict": "select?x where {?x <职业> <艺人_（职业）>.?x <所属公司> <上海骋亚>.?x <主要成就> \"北京大学生电影节最佳新人奖提名\". }"}
+{"label": "aaaaa", "predict": "select?x where { <贾兰> <原型>?y.?x <爷爷>?y. }"}
+{"label": "aaaaa", "predict": "select?y where { <薛蟠> <妹妹>?x.?x <居所>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <林黛玉_（古典名著《红楼梦》女主角）> <出生地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京大学> <校址>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <清华大学> <校训>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <浙江大学> <现任校长>?y.?y <入党时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <窦娥冤_（元代杂剧代表作）> <作者>?y.?y <民族>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <沐雨栉风> <典故>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <帝辛> <主要成就>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <姜尚> <主要成就>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <烽火戏诸侯_（2002年是一部中国大陆的古题材电视剧）> <主要人物>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <孔子_（儒家学派创始人）> <教育思想>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <庄周_（战国时期哲学家）> <逝世日期>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <吴国_（春秋时期诸侯国）> <最后一位君主>?y.?y <主要成就>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <苏秦_（战国时期法家代表人物）> <职业>?x.?x <官职>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <中文名> \"嬴政\".?y <信仰>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <秦始皇_（中国首位皇帝）> <继承人>?x.?x <人物结局>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <刘邦_（汉高祖刘邦）> <陵墓>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <汉武帝_（汉朝皇帝）> <陵墓>?x.?x <地理位置>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <曹操_（东汉末年人物）> <文学作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <二郎神_（中国神话中的神祇）> <武器>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <哪吒_（中国古代神话人物）> <出生地>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <诸葛亮_（三国时期蜀汉丞相）> <别称>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <吕布_（东汉末年军阀）> <别称>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <司马懿_（东汉末年政治家、军事家）> <去世时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <苻坚_（金庸武侠小说中的人物）> <主要成就>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <杨广_（隋炀帝）> <庙号>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <李隆基_（唐朝第六位皇帝）> <年号>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <别名> \"卢俊义\".?x <梁山排行>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <李自成_（明朝将领、农民起义领袖）> <主要成就>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <马雷岛> <景点简介-系列网文标题>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <别名> \"关坤帮\".?y <主要成就>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <侯家小寨村> <平均温度>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <定风波·红梅> <作者>?y.?y <代表作品>?z.?z <出版时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <定风波·红梅> <文学体裁> <诗歌>. <定风波·红梅> <创作时间>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <定风波·红梅> <作者>?x.?x <逝世日期>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <定风波·红梅_（宋代岳飞诗作）> <作者>?y.?y <字>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <定风波·红梅> <作者>?y.?y <追封>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <李万奎> <出生日期>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <库里克罗> <别名>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <江苏之战> <参战士兵>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <晏宗望> <出生日期>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <踢球的奥克斯> <祖国>?y.?y <人口>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <奥克斯> <体育项目> <足球>. <奥克斯> <国籍>?y.?y <民族>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <奥克斯> <运动项目>?y.?y <主要奖项>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <奥克斯> <运动项目> <踢球>. <踢球> <祖国>?y.?y <首都>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <奥克斯> <车牌代码>?x. }"}
+{"label": "aaaaa", "predict": "select?z where {?x <主要品牌> <奥克斯>.?x <首都>?y.?x <时区>?z. }"}
+{"label": "aaaaa", "predict": "select?y where { <奥克斯> <主要产品>?x.?x <中华人民共和国> <首都>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <邙岭路街道> <起始时间>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <朝鲜龙南山电视台> <电视节目>?x.?x <其他参与>?y.?x <语言>?y. } "}
+{"label": "aaaaa", "predict": "select?x where { <库加拉·尤西> <身高>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <浙江省生态文化协会> <成立时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <宋吟玲> <职业>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <国计学> <出版社>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <中文名> \"李华兴\".?x <民族>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <小新厂村> <面积>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <颠倒佛界_（贾平凹作品）> <上映地区>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <J·布迪英> <出生地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <颜色> <颜料红_（计色体的一种）>. }"}
+{"label": "aaaaa", "predict": "select?x where { <东晋越窑青瓷盘口壶> <尺寸>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <卡萨戈尔达> <出生日期>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <樊敬> <主要成就>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <姜彪> <出生日期>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <沈小平_（中国企业家）> <母校>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <钱渊> <出生地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <深圳时代金融中心> <上市时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <M-106A1式自行迫击炮> <口径>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <洋葱披萨> <食材>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <胡悦> <星座>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <胡悦> <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <毕业院校> <安庆'>.?y <职业> <教师_（职业名称）>.?y <荣誉>?x.  }"}
+{"label": "aaaaa", "predict": "select?x where { <杨青艳> <性别>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <公交三烈士> <性别>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <环源有限公司> <城市> <苏州>. <环源有限公司> <公司性质>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <覃海明> <民族>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <标致407> <重量>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <车身重量> \"1660\".?y <类型> <汽车>.?y <座位数>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <车身重量> \"1660千克\".?y <类型>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y < 车身重量> \"1660千克\".?y <前置前驱>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <车身重量> \"1660千克\".?y <前置前驱>?x.?y <轴距>?x }"}
+{"label": "aaaaa", "predict": "select?x where { <山田英二> <职业>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <无生太极> <更新状态>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <楚汉别传> <出版地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <中国老年实用大全> <书价>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <王占礼> <职业>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <董成义> <牺牲时间>?x. }"}
+{"label": "aaaaa", "predict": "SELECT?x WHERE { <帕特里克·斯赤尼尔> <出生地>?x. } "}
+{"label": "aaaaa", "predict": "select?x where { <小叶桦> <族>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <蓝镜传说_（2008年罗少景执导,林更新、王晁然等主演的电视剧）> <制片时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <枣杏焖鸡> <涉及疾病>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <吴运鸿> <籍贯>?y.?y <邮政区码>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <吴运鸿> <老乡>?x.?x <车牌代码>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <吴运鸿> <老乡>?y.?y <所属地区>?x.?y <知名大学>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <吴运鸿> <老乡>?y.?y <人均GDP>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <次仁央宗> <职业>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <旧孟津> <外文名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <翡翠皮蛋羹> <主要食材>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <寅阶> <解释>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <粤B> <车牌代码>?y.?y <别名>?x. } "}
+{"label": "aaaaa", "predict": "select?y where { <清华大学> <现任校长>?x.?x <出生地>?y. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <清代> <文学家>?y.?x <外文名>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <bilibili> <董事长>?y.?y <星座>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <腾讯> <创始人>?x.?x <法定代表人>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <出处> <红楼梦_（中国古典长篇小说四大名著之一）>.?x <中文名> }"}
+{"label": "aaaaa", "predict": "select?x where { <轻音少女_（日本轻小说及动画作品）> <主要创作团队>?y.?x <主要创作团队>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <制作公司> <骨头社>.?x <配音> <钉宫理惠>. }"}
+{"label": "aaaaa", "predict": "select?x where { <虎杖> <目的>?y.?x <目的>?y. }"}
+{"label": "aaaaa", "predict": "select?y where { <梦游天姥吟留别> <作者>?x.?x <所处时代>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要食材> <奥利奥>. }"}
+{"label": "aaaaa", "predict": "select?x where { <九色鹿_（日本90年代动画）> <发行公司>?y.?y <成立时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <爱乐之城> <导演>?y.?y <编剧>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <醉翁亭记> <作者>?y.?x <作者>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <派大星> <拉丁学名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <关系> <章鱼哥_（动漫《海贼王》中人物）>.?x <关系> <派大星_（动漫《海贼王》中人物）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <科> <檀香科>. }"}
+{"label": "aaaaa", "predict": "select?x where { <Warfarin> <药物分子式>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <李纨_（《红楼梦》中人物）> <儿子>?y.?y <别名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <上映时间> \"1998\". }"}
+{"label": "aaaaa", "predict": "select?x where { <贝多芬_（德国籍巴西音乐家、钢琴家）> <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要配音> <岛崎信长>.?x <主要配音> <樱井孝宏>. }"}
+{"label": "aaaaa", "predict": "select?x where { <正山小种> <分类>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <阿加莎·克里斯蒂> <作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <拍摄地点> <横店>. }"}
+{"label": "aaaaa", "predict": "select?x where { <傈僳族> <政治人物>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <哈利波特_（J.K.罗琳创作魔幻系列小说）> <主要角色>?x.?x <性别> <男>. }"}
+{"label": "aaaaa", "predict": "select?x where { <凉宫村日> <所属社团>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <无间道_（香港电影）> <主演>?x.?x <职业> <歌手_（职业名称）>. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <母亲> <诸邑公主_（唐代杜甫诗作）>.?x <父亲>?y.?y <庙号>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <国籍> <英国_（大不列颠及北爱尔兰联合王国）>.?x <参与行动> \"1776年8月2日签署某法案\". }"}
+{"label": "aaaaa", "predict": "select?x where {?y <中文名> \"莉薇娅·杜路莎·奥古斯特\".?y <主要民族>?z.?z <主要宗教>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <原子弹_（核武器）> <重要材料>?y.?y <发现时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <主要性能> \" world's first electronic multi-purpose computer\".?y <重量>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <信仰>?x.?y <代表食物> <烤包子>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> \"6次总冠军\".?x <主要成就> \"招牌动作-后仰跳投\". }"}
+{"label": "aaaaa", "predict": "select?y where { <中国人民大学> <城市>?x.?x <总人口>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <沙丘战役> <地点>?y.?y <气候类型>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <主要成就> \"15座金曲奖\".?y <身高>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <狭义相对论> <提出人>?x.?x <出生日期>?y. }"}
+{"label": "aaaaa", "predict": "select?y where { <莫言_（中国诺贝尔文学奖获得者）> <影响人物>?x.?x <代表作品>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <波兰_（波兰共和国）> <首都>?y.?y <面积>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <史塔克_（美国动漫及电影钢铁侠中的人物）> <饰演>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京大学> <学术传统>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> \"迁都\". }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> \"现代通话之父\". }"}
+{"label": "aaaaa", "predict": "select?x where { <渡江战役> <参战兵力>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <太平洋> <平均盐度>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <任天堂> <主要游戏系列>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <神秘海域_（神秘海域系列游戏）> <游戏平台>?y.?y <生产商>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <方正集团> <公司口号>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <iPhone> <操作系统>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> \"进入太空\". }"}
+{"label": "aaaaa", "predict": "select?x where { <十月革命_（1917年10月25日在彼得格勒工人革命政变）> <发生地点>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <南水北调工程> <地区>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <Android_（Android operating system）> <发行商>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <华为技术有限公司> <总裁>?y.?y <出生地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <刺客信条系列_（育碧开发的游戏系列）> <开发公司>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要角色> <塞尔达公主_（日本任天堂公司游戏角色）>. }"}
+{"label": "aaaaa", "predict": "select?x where { {0系列} <作者>?y.?y <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <开发商> <微软>.?x <共同开发者> <343_（微软公司）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <开发商> <Valve>.?x <类型> <fps_（电子游戏类别）>. }"}
+{"label": "aaaaa", "predict": "select?y where { <彩虹六号：围攻_（Electronic Arts·拳击游戏）> <作者>?x.?y <作者>?x.?y <主题> <末日_（词语概念）>. }"}
+{"label": "aaaaa", "predict": "select?x where { <战舰世界_（Wargaming.net开发的Wargaming.net战棋类游戏）> <开发商>?y.?y <成立时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <设备> <PS4_（PlayStation4）>.?x <类型> <文字冒险>. }"}
+{"label": "aaaaa", "predict": "select?y where { <初音未来_（Crypton Future Media公司开发的游戏人物）> <登场作品>?x.?x <游戏开发商>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <黑魂_（宫崎英高创作的BOSS级别游戏）> <发行商>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <别名> \"第六天魔王\".?x <成就>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <伊达政宗> <生卒时间>?y.?y <开始时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <川端康成> <代表作品>?x.?x <主要角色> <岛村>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <作者> <宫泽贤治>. }"}
+{"label": "aaaaa", "predict": "select?x where { <船中八策> <提出者>?y.?y <主要成就> \"提出船中八策\".?y <活跃时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <日本战国三英杰> <人物>?y.?y <别名> \"猴子_（哺乳动物）\".?y <墓地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <大正浪漫> <提出者>?y.?y <逝世日期>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <逆转裁判_（青山伸明创作的侦探小说改编的冒险游戏）> <发行平台> <3DS>. <逆转裁判_（青山伸明创作的侦探小说改编的冒险游戏）> <作品名称>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <三岛由纪夫> <代表作品>?y.?y <篇幅>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <镰仓幕府_（日本幕府统治时期）> <灭亡>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <职业> <动画监督>.?x <职业> <演出人_（表演者）>. }"}
+{"label": "aaaaa", "predict": "select?x where { <生化危机_（团队开发的游戏）> <主要角色>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <T病毒> <别称>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <命运石之门_（日本轻小说、动画、漫画作品）> <发行时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <出生地> <东京_（日本首都）>.?x <身高> <152>. }"}
+{"label": "aaaaa", "predict": "select?x where { <水濑祈> <别名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <天元突破（ORION RISING）> <监督>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <中文名> \"士官长\".?x <所属地区>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <3ds> <特色>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <偶像大师_（日本动画游戏改编的街机游戏）> <发行时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <四松堂集> <收藏>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京大学图书馆> <建馆时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <新西兰> <所属洲>?x. }"}
+{"label": "aaaaa", "predict": "select?a where{?x <中文名> \"新西兰\".?x <主要宗教>?a. } "}
+{"label": "aaaaa", "predict": "select?x where { <马里诺维奇> <所属运动队>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <足球> <最高赛事>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <金垃圾奖> <领域>?x. }"}
+{"label": "aaaaa", "predict": "SELECT?x WHERE { <意大利_（意大利共和国）> <国土面积>?x. } "}
+{"label": "aaaaa", "predict": "select?x where { <天主教> <创始地点>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <天主教_（基督教宗教团体）> <信仰禁忌>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <蜡笔小新_（日本漫画家野原新之代表作）> <出版时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <新番小新> <集数>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <小山义治>. }"}
+{"label": "aaaaa", "predict": "select?x where { <鲁迅_（文学家、思想家）> <主要成就>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <希望_（鲁迅创作散文诗）> <作品集名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <鼠标> <发明人>?y.?y <毕业院校>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <国籍> <日本_（日本国）>.?y <职业> <指挥家>.?y <别名>?x. } "}
+{"label": "aaaaa", "predict": "select?y where {?x <别名> \"中国硅谷\".?x <地理位置>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <极简主义> <理念>?y.?y <位置>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <竣工时间> \"1421\".?x <分类> <历史博物馆_（公共建筑）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <作者> <张择端>.?x <又称> \"中国十大传世名画之一\". }"}
+{"label": "aaaaa", "predict": "select?y where { <朱棣_（明成祖）> <年号>?x.?x <前任>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <中文名> \"玉奴\".?y <唐朝> <贵族称谓> \"贵妃\".?y <中文名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <作者> <司马迁>.?x <主要作品> <列传_（汉书篇目）>.?x <主要作品> <乐毅列传>. }"}
+{"label": "aaaaa", "predict": "select?y where { <无颜见江东父老> <作品原著名称>?x.?x <文学体裁>?y. }"}
+{"label": "aaaaa", "predict": "select?y where { <项羽本纪> <文学体裁>?x.?x <特点>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <作品名称> <宋微子世家>.?y <文学体裁>?x.?y <作品名称> <曹相国世家>.?y <文学体裁>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <瓮牖绳枢之子> <作者>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <心学四诀> <作者>?x.?x <别名>?y. } "}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> \"阳明心学\".?x <主要成就> \"剿灭南赣盗贼\". }"}
+{"label": "aaaaa", "predict": "select?x where {?y <电话区号> \"5910599\".?y <省会>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <信用媒介论> <代表人物>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <导演> <圆谷英二>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <郭富城>.?x <主演> <郑伊健>.?x <导演> <刘伟强_（香港导演）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <主要成就>?x.?y <国籍> <战国_（历史时期）>.?y <主要成就>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <天主教> <教义>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <毕业院校>?x.?y <场上位置> <控球后卫>. }"}
+{"label": "aaaaa", "predict": "select?x where { <H1N1猪流感> <症状>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <南阳三大宝> <主要食材>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <我们的答案> <演唱>?y.?y <经纪公司>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <民族> <姬世晓>.?y <官方语言>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <代表作品> <红楼梦_（2008年刘心宇演唱歌曲）>.?x <职业> <歌手_（职业名称）>.?x <出生地>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <粤台经贸合作试验区> <车牌号>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <主要成就> \"中国之父\".?y <出生日期>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <湖南_（中国湖南省）> <方言>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <别称> <荧惑>.?x <直径>?y. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <创始人> <何大仁>.?x <创办时间>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <漳州> <高校>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <主要食材> <枸杞>.?y <主要食材> <雏鸽>.?y <口味>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <追梦赤子心_（陈奕迅演唱歌曲）> <歌曲原唱>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <阿里音乐> <娱乐团队>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <李渊_（唐朝开国皇帝）> <主要成就>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <晋阳起兵> <发生时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <意见派> <别名>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <福尔摩斯_（英国作家阿瑟·柯南·道尔创作惊悚小说）> <作者>?x.?x <民族>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <语言> <意大利_（意大利王国）>.?x <货币> <欧元_（欧洲货币联盟货币）>. }"}
+{"label": "aaaaa", "predict": "select?x where { <中华人民共和国> <首都>?y.?y <邮政区码>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <文化苦旅> <作者>?x.?x <毕业院校>?y. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <创始人> <马化腾>.?x <创始人> <陈一丹>.?x <员工数>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京大学> <学术传统>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <白居易> <诞辰>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <新乐府运动> <主要倡导者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <卖炭翁_（蒲松龄诗作《白雪公主》中角色）> <文学体裁>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <白氏长庆集> <卷数>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <貘屏赞> <集数>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <忆江南三首> <时代>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <苏轼_（北宋文学家）> <谥号>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <别名> \"苏仙\". }"}
+{"label": "aaaaa", "predict": "select?x where { <掷凫猎兔> <作者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <送欧阳推官赴华州监酒> <体裁>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <豪放派> <代表人物>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <陈思成> <毕业院校>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <陈思成> <粉丝>?y.?y <别名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <陈思成> <配偶>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <珠落玉盘_（成语）> <作者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <白居易_（唐代著名诗人）> <主要作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <醉中留别杨六兄弟> <集数>?y.?x <集数>?y.?x <类型> <七言绝句>. }"}
+{"label": "aaaaa", "predict": "select?x where { <唐代_（中国历史朝代）> <著名诗人>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <谥号> \"文忠\".?x <地位> \"唐宋八大家之一\". }"}
+{"label": "aaaaa", "predict": "select?y where { <醉饱高眠> <作者>?x.?x <出生日期>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> \"唐宋八大家\".?x <主要成就> \"宋四家\". }"}
+{"label": "aaaaa", "predict": "select?y where { <北京爱情故事吧> <导演>?x.?x <星座>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <代表作品> <山花情>.?x <代表作品> <愤怒的机枪>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <出生地> <沈阳>.?x <代表作品> <碧海雄心_（2004年陈应天执导电视剧）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <陈思成_（中国内地男演员、导演、编剧）>.?x <出品时间> \"2013\".?x <导演> <陈思成_（中国内地男演员、导演、编剧）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <陈思成_（中国内地男演员）>.?x <主演> <刘涛>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <陈思成_（中国内地男演员、导演、编剧）>.?x <类型> <剧情>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> \"最具演技女演员奖\".?x <主要成就> \"十大正能量女性\". }"}
+{"label": "aaaaa", "predict": "select?x where {?y <代表作品> <欢乐颂_（电视剧）>.?y <主演>?x.?y <代表作品> <芈月传_（电视剧）>.?y <主演>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <梁咏琪>.?x <主演> <金城武>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <所属运动队> <黄金一代>.?x <场上位置> <后卫>. }"}
+{"label": "aaaaa", "predict": "select?x where { <波士顿凯尔特人队> <主场馆>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <瑞典> <汽车品牌>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <刺史制度> <创设者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <沉默的大多数> <作者>?y.?y <配偶>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> \"被封为冠军侯\". }"}
+{"label": "aaaaa", "predict": "select?x where { <伯克希尔·哈撒韦> <首席执行官>?y.?y <出生地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> \"改良蒸汽机\". }"}
+{"label": "aaaaa", "predict": "select?y where {?x <主要成就> \"隋朝开国皇帝\".?x <妻子>?y.?y <民族>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <出生地> <维也纳_（奥地利首都）>.?x <职业> <艺术家>. }"}
+{"label": "aaaaa", "predict": "select?x where { <上海三大亨> <成员>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <代表作品> <忏悔录_（卢梭作品《忏悔录》）>.?x <出生地>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <登场作品> <七龙珠_（漫画家井上雄彦著作的漫画）>.?y <配偶>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <卡拉比猜想> <证明人>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <天水围的日与夜> <导演>?y.?y <毕业院校>?x. } "}
+{"label": "aaaaa", "predict": "select?x where { <文艺复兴> <起源>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <国籍> <塞尔维亚>.?x <职业> <网球_（球类运动）>. }"}
+{"label": "aaaaa", "predict": "select?y where { <赤木晴子> <哥哥>?x.?x <球技>?y. }"}
+{"label": "aaaaa", "predict": "select?y where { <开往中国的慢船> <作者>?x.?x <国籍>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <死海_（中东湖泊）> <首都>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <马里奥·马拉多纳> <身上纹>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> \"公牛王朝\". }"}
+{"label": "aaaaa", "predict": "select?x where {?x <位置> <右脚>.?x <俱乐部> <曼联_（英格兰曼彻斯特联足球俱乐部）>. }"}
+{"label": "aaaaa", "predict": "select?x where { <新闻联播> <主持人>?y.?y <民族>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <韩国_（大韩民国）> <电影演员>?x. <一代宗师> <主演>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <国籍> <台湾>.?y <主要成就> \"台北的都市生活\".?y <国歌>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <好望角_（欧洲西海岸国家铁矿石进口站）> <所属地区>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <地区> <拉美_（地理概念）>.?y <分类> <魔幻现实主义>.?y <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <天龙八部_（金庸创作小说）> <日月神教教主>?y.?y <绝招>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <职业> <科学家_（从事科学研究的人群）>.?x <毕业院校> <合肥中学>. }"}
+{"label": "aaaaa", "predict": "select?x where { <湖南大学> <现任校长>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <成败一知己，生死两妇人> <主要人物>?x.?x <主要成就>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { ?x <年号> \"贞观\".  }"}
+{"label": "aaaaa", "predict": "select?y where { <贾环> <父亲>?x.?x <人物原型>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <窦娥冤_（元代戏曲家关汉卿代表作）> <作品作者>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <配偶>?y. <孔丘_（孔丘战役指挥者）> <配偶>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <黄河_（中国第二长河）> <主要支流>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <丈夫> <贾琏_（小说《红楼梦》人物）>.?x <性格>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <杨振宁> <毕业院校>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <妹妹> <薛宝钗>.?x <结拜兄弟>?y. }"}
+{"label": "aaaaa", "predict": "select?y where { <香蕉_（芭蕉科芭蕉属植物）> <分布>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x  <作者> <村上春树_（日本著名作家）>.?x <出版时间> \"2007-07-01\". } "}
+{"label": "aaaaa", "predict": "select?x where { <村上春树_（日本著名作家）> <国籍>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <周杰伦> <外文名>?x.  }"}
+{"label": "aaaaa", "predict": "select?x where { <腾讯> <法人>?y.?y <毕业院校>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <主要奖项> \"NBA最有价值球员奖（2008）\".?y <出生日期>?x. } "}
+{"label": "aaaaa", "predict": "select?x where { <科比·布莱恩特> <父亲>?y.?y <国籍>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <权力的游戏_（美国HBO电视台制作的电视剧）第五季> <集数>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <斯大林> <逝世日期>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <黄蓉_（金庸武侠小说《射雕英雄传》女主角）> <丈夫> ?y.?y <出生地>?x. } "}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <张智霖>.?x <主演> <朱茵_（中国香港女演员）>. } "}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <张卫健>.?x <导演> <冯柏源>.?x <首播时间> \"2002\". }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <朱茵_（中国香港女演员）>.?x <主演> <唐嫣>. }"}
+{"label": "aaaaa", "predict": "select?x where { <杜兰特_（美国篮球运动员）> <球衣号码>?x. }"}
+{"label": "aaaaa", "predict": "SELECT?x WHERE { <意大利_（意大利共和国）> <国土面积>?x. } "}
+{"label": "aaaaa", "predict": "select?x where { <意大利_（意大利共和国）> <所属洲>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <德国_（德意志联邦共和国）> <首都>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <张敬轩> <经纪公司>?x.?x <董事长>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <王菲_（华语女歌手、演员）> <宗教>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <红豆_（红豆乐队演唱歌曲）> <填词>?x.?x <中文名>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <唱游_（王力宏第十张专辑）> <歌曲总数>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <歌曲原唱> <李荣浩_（中国加拿大男歌手、音乐人、演员）>.?x <填词> <黄伟文_（香港词人）>. }"}
+{"label": "aaaaa", "predict": "select?x where { <李白_（唐朝著名诗人）> <祖籍>?y.?y <电话区号>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <送崔十二游天竺寺> <作者>?y.?y <国籍>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <李白_（唐朝著名诗人）> <墓葬地>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <帝京篇_（李世民作唐诗）> <作者> ?y.?y <庙号>?x. } "}
+{"label": "aaaaa", "predict": "select?x where { <9·11事件> <袭击形式>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <本·拉登> <主要罪行>?y. ?y <受伤>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <赵雷_（民谣歌手、音乐人）> <音乐风格>?x.?y <歌者> <赵雷_（歌手）>.?y <音乐风格>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <易烊千玺> <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <登场作品> <海贼王_（尾田荣一郎创作的漫画作品）>.?y <船长>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {  <陈凯歌_（中国内地导演）> <儿子>?y.?y <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <进击的巨人_（日本漫画家谏山创创作的网络漫画）> <主要人物>?y.?y <身高>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <官方语言> <拉丁语>.?y <所属洲>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <南派三叔> <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <澳大利亚> <首都>?y.?y <气候>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <白胡子_（日本漫画《海贼王》中人物）> <武器>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <郭麒麟> <父亲>?y.?y <职业>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <法家_（思想家李零的称谓）> <代表人物>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <大连理工大学> <学校地址>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <倪妮>.?x <导演> <张艺谋>. }"}
+{"label": "aaaaa", "predict": "select?x where { <红高粱_（莫言小说）> <作者>?y.?y <毕业院校>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <Cola_（可乐类饮料）> <配料>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <腾讯> <法人>?y.?y <毕业院校>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <籍贯> <河南_（中国中部地区之一、中国四大板块之一）>.?x <职业> <演员_（职业名称）>.?x <出生地> <河南_（中国中部地区）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <民族> <维吾尔族>.?x <职业> <演员_（职业）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主演> <杨幂_（中国内地女演员、歌手）>.?x <主演> <迪丽热巴>. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京大学东门站> <所在>?cvt.?cvt <实体名称> <北京地铁线路>. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <登场作品> <火影忍者_（岸本齐史创作的漫画）>.?y <配音>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <月光·莫利亚_（日本漫画《海贼王》中角色）> <能力>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <别名> \"Laughing gas；dinitrogen oxide\".?y <化学式>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <导演> <沈腾_（中国内地男演员、导演、编剧）>. }"}
+{"label": "aaaaa", "predict": "select?x where { <华为技术有限公司> <官网>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <白羊座> <守护神>?x. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <别名> \"黑曼巴\".?x <球衣号码>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <玉米_（一种粮食作物）> <别名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <所属洲> <亚洲>.?x <参与战争> <二战>. }"}
+{"label": "aaaaa", "predict": "select?x where { <日本_（日本国）> <国歌>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <台湾省> <方言>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <深圳> <火车站>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <美国> <英文名称>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <芝加哥_（美国伊利诺伊州最大的城市）> <别名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <旧金山_（美国太平洋沿岸城市）> <气候条件>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <谷歌_（Google）> <主要口号>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <索尼> <创始人>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <清华大学> <校训>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <水> <沸点>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <曹县> <外文名称>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <龟虽寿_（汉乐府诗）> <作者>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <苏炳添> <主要荣誉>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <约塞米蒂国家公园> <植被类型>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <死海_（中东地区海水）> <所属地区>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <乞力马扎罗山脉> <主峰>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <塔希提岛_（太平洋岛屿）> <主要宗教>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <经纪公司> <索尼音乐>.?x <国籍> <美国_（美利坚合众国）>. }"}
+{"label": "aaaaa", "predict": "select?y where { <渔人码头> <城市>?x.?x <机场>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <Android> <开发商>?y.?y <成立时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <老炮_（电影《老炮儿》）> <地区>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <大堡礁> <娱乐项目名称>?y.?y <种类>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <职业> <天体力学>.?x <国籍> <法国_（法兰西共和国）>.?x <职业> <数学家>. }"}
+{"label": "aaaaa", "predict": "SELECT?y WHERE { <法国_（法兰西共和国）> <首都>?x.?x<雅称>?y. } "}
+{"label": "aaaaa", "predict": "select?y where {?x <邮政区码> \"200000\".?x <市花>?y. }"}
+{"label": "aaaaa", "predict": "select?y where { <黑脸琵鹭> <属>?x.?y <属>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京大学> <学校地址>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <贝多芬_（德国作曲家）> <早期教育>?x. ?x <出生地> <萨尔茨堡_（奥地利州）>. }"}
+{"label": "aaaaa", "predict": "select?y where {?x <主要成就> \"近代物理学之父\".?x <毕业院校>?y. }"}
+{"label": "aaaaa", "predict": "select?y where { <埃菲尔铁塔_（巴黎城市地标之一）> <设计者>?x.?x <国籍>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要成就> \"杠杆原理\". }"}
+{"label": "aaaaa", "predict": "select?x where {?x <所属洲> <南美洲_（洲级分区）>.?x <官方语言> <葡萄牙语_（一种西语语言）>. }"}
+{"label": "aaaaa", "predict": "select?x where { <新子憧憬_（日本女演员）> <出生地>?y.?y <上映时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <东北大厦> <房型名称> <尊贵豪华悠景双床房>. <尊贵豪华悠景双床房> <房型描述>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <北京金融街威斯汀大酒店> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 1).?y <城市> <北京>.?y <类型> <酒店>.}"}
+{"label": "aaaaa", "predict": "select?y  where { <北京世纪金源大酒店> <附近>?cvt.?cvt <实体名称>?y.?y <是否有停车场> <有收费停车场>.?y <类型> <景点>. }"}
+{"label": "aaaaa", "predict": "select?x where { <故宫博物院（故宫）> <娱乐项目名称> <延庆殿>. <延庆殿> <项目描述>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <沈阳梵高星空艺术馆（益田假日世界店）> <娱乐项目名称> <恐怖沙发>. <恐怖沙发> <项目描述>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <济南护城河> <电话>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <森泊幻想岛> <是否免费> \"全年收费\". <森泊幻想岛> <优待政策>?x. }"}
+{"label": "aaaaa", "predict": "select (count(?x) as?count_city) where { ?x <城市> <南京>. ?x <酒店品牌名称> <香格里拉>. }"}
+{"label": "aaaaa", "predict": "select?x where { <润达奇妙萌宠乐园> <最佳游玩时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <梅溪湖国际文化艺术中心艺术馆> <优待政策>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <大连远洲大酒店> <电话>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <城市> <济南>.?x <景点的等级A> \"5A\". }"}
+{"label": "aaaaa", "predict": "select?t where { <北京国贸大酒店> <附近>?cvt.?cvt <实体名称> <北京饭店（原北京喜来登长城中心）>.?cvt <距离值>?t.}"}
+{"label": "aaaaa", "predict": "select?y where { <雍和宫> <附近>?cvt.?cvt <实体名称>?y.?y <是否有充电车位> <有充电车位>.?y <类型> <酒店>.  }"}
+{"label": "aaaaa", "predict": "select?y where { <景山公园> <附近>?cvt.?cvt <实体名称>?y.?y <是否有高尔夫球馆> <有高尔夫球馆>.?y <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?x where { <外滩> <平均价格>?x. }"}
+{"label": "aaaaa", "predict": "select?time where { <沈阳黎明国际酒店> <酒店入住开始时间>?time. }"}
+{"label": "aaaaa", "predict": "select?x where { <辽宁省博物馆> <城市> <沈阳>. <辽宁省博物馆> <地址>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <天津独角兽星空艺术馆> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 2).?y <城市> <天津>.?y <类型> <景点>.}"}
+{"label": "aaaaa", "predict": "select?y where { <重庆君豪大饭店> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 5).?y <城市> <重庆>.?y <类型> <景点>.}"}
+{"label": "aaaaa", "predict": "select?x where { <凯玄国际大酒店> <酒店退房时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <南京城市名人酒店> <酒店入住开始时间>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <幻光之城星空艺术馆（青岛站）> <附近>?cvt.?cvt <实体名称> <水晶柱镜花宫项目>.?cvt <类型> <景点>.?cvt <景点的英文名>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <颐和园> <附近>?cvt.?cvt <实体名称>?x.?cvt <距离值>?distance. filter(?distance <= 5).?x <城市> <北京>.?x <类型> <酒店>.?x <停车是否免费> <免费>. }"}
+{"label": "aaaaa", "predict": "select?x where { <梅里雪山国家公园> <官方门票数据>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <湖南省博物馆> <营业时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <润达奇妙萌宠乐园> <营业时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <时空魔方艺术馆（嘉里中心旗舰店）> <城市> <厦门>. <时空魔方艺术馆（嘉里中心旗舰店）> <电话>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <景山公园> <附近>?cvt.?cvt <实体名称>?y.?y <是否有泳池> <室内泳池>. }"}
+{"label": "aaaaa", "predict": "select?x where { <玉龙雪山蓝月谷> <平均价格>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <厦门艾美酒店> <平均价格>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <森泊幻想岛> <位于>?cvt. ?cvt <实体名称> <孤山公园>. ?cvt <方向>?x }"}
+{"label": "aaaaa", "predict": "select?y where { <北京国宾酒店> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 5).?y <类型> <景点>.}"}
+{"label": "aaaaa", "predict": "select?x where { <奥林匹克森林公园> <电话>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <永银钱币博物馆> <城市> <南京>. <永银钱币博物馆> <景点简介-优惠信息>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <城市> <济南>.?x <酒店品牌名称> <索菲特>. }"}
+{"label": "aaaaa", "predict": "select?x where { <喀纳斯景区> <官方门票数据>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <武汉华美达光谷大酒店> <wifi情况>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <济南护城河> <景点的等级A>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <北海公园> <城市> <北京>. <北海公园> <位置>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <广州独角兽星空艺术馆> <城市>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <梵高星空艺术馆（益田假日世界店）> <城市>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <库尔勒康城建国国际酒店> <是否有咖啡厅>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <景山公园> <附近>?cvt.?cvt <实体名称>?y.?y <是否有外汇> <对外外汇>. }"}
+{"label": "aaaaa", "predict": "select?t where { <萤火虫星空艺术馆（钟楼旗舰店）> <附近>?cvt.?cvt <实体名称> <西安梦幻星空抖乐园（钟楼旗舰店）>.?cvt <距离值>?t.}"}
+{"label": "aaaaa", "predict": "select?y where { <布达拉宫> <附近>?cvt.?cvt <实体名称>?y.?y <是否有咖啡厅> <有咖啡厅>.?y <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?x where { <空中之翼航空飞行跳伞俱乐部> <城市> <天津>. <空中之翼航空飞行跳伞俱乐部> <最佳游玩时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <九寨沟风景区> <城市> <九寨沟县>. <九寨沟风景区> <优待政策>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <重庆·巅峰乐园> <建议游玩时长>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京金茂威斯汀酒店> <是否有网球馆>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <辽宁省博物馆> <娱乐项目名称> <洞穴岁月>. <洞穴岁月> <项目限制（一般指身高年龄限制）>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <雍和宫> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 5).?y <城市> <北京>.?y <类型> <景点>.}"}
+{"label": "aaaaa", "predict": "select?y  where { <故宫博物院（故宫）> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance.?y <类型> <酒店>.?y <平均价格>?price. filter(?distance <= 5). } ORDER BY desc(?price) LIMIT 1"}
+{"label": "aaaaa", "predict": "select?x where { <成都望江宾馆> <是否有婚宴服务>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <孤山公园> <城市> <杭州>. <孤山公园> <景点的等级A>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <故宫博物院（故宫）> <营业时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <瑞海姆田园度假村> <是否有接送站>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <美丽华酒店> <是否有宠物政策>?x. }"}
+{"label": "aaaaa", "predict": "select?t where { <故宫博物院（故宫）> <附近>?cvt.?cvt <实体名称> <北京新云南皇冠假日酒店>.?cvt <距离值>?t.}"}
+{"label": "aaaaa", "predict": "select?x where { <清华大学艺术博物馆> <娱乐项目名称> <家具部分>. <家具部分> <项目描述>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <丽江泸沽湖景区> <是否可开车进内>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <景山公园> <官方门票数据>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <上海西郊宾馆> <酒店入住开始时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <萤火虫星空艺术馆（钟楼旗舰店）> <娱乐项目名称> <奇趣动漫馆>. <奇趣动漫馆> <项目描述>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <颐和园> <位于>?cvt. ?cvt <实体名称> <日坛宾馆>. ?cvt <方向>?x }"}
+{"label": "aaaaa", "predict": "select?x where {?x <城市> <镇江>.?x <酒店品牌名称> <喜来登>. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京金融街威斯汀大酒店> <位于>?cvt. ?cvt <实体名称> <雍和宫>. ?cvt <方向>?x }"}
+{"label": "aaaaa", "predict": "select?x where { <东北大厦> <房型名称> <豪华悠景大床房>. <豪华悠景大床房> <容纳人数>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <灵峰山森仙亲子教育农场> <wifi服务>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <丽江泸沽湖> <交通信息>?x. }"}
+{"label": "aaaaa", "predict": "select (count(?x) as?count_hotel) where { ?x <城市> <常熟>. ?x <酒店品牌名称> <金海华品牌>. ?x <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?y where { <北京国贸大酒店> <附近>?cvt.?cvt <实体名称>?y.?y <是否有擦鞋服务> <有擦鞋服务>.?y <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?x where { <杭州西湖星空魔幻城（星空艺术馆品牌旗舰店）> <最佳游玩时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <颐和园> <城市> <北京>. <颐和园> <景点的门票数据>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <北京昆仑饭店> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 2).?y <类型> <景点>.}"}
+{"label": "aaaaa", "predict": "select?t where { <湖南省博物馆> <附近>?cvt.?cvt <实体名称> <梅溪湖国际文化艺术中心艺术馆>.?cvt <距离值>?t.}"}
+{"label": "aaaaa", "predict": "select?x where { <成都家园国际酒店> <早餐类型>?x. }"}
+{"label": "aaaaa", "predict": "select?distance where { <济南护城河> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance.?y <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?y where { <布达拉宫> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 5).?y <城市> <拉萨>.?y <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?y where { <绍兴市国际大酒店> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 5).?y <城市> <绍兴>.?y <类型> <酒店>.}"}
+{"label": "aaaaa", "predict": "select?x where { <玉龙雪山蓝月谷> <是否有餐厅>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <故宫博物院（故宫）> <娱乐项目名称> <养性殿>. <养性殿> <项目名称>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <开平潭江半岛酒店> <早餐价格>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <景山公园> <城市> <北京>. <景山公园> <景点简介-优惠信息>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <奥林匹克森林公园> <城市>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <珠海来魅力假日酒店> <城市>?x. }"}
+{"label": "aaaaa", "predict": "select?c where { <天坛公园> <附近>?c.?c <价格>?b.?c <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?y where { <厦门星空艺术馆> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 5).?y <城市> <厦门>.?y <类型> <景点>.}"}
+{"label": "aaaaa", "predict": "select?y where { <亚龙湾希尔顿大酒店> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 1).?y <城市> <三亚>.?y <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?y where { <西安威斯汀大酒店> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 2).?y <城市> <西安>.?y <类型> <景点>.}"}
+{"label": "aaaaa", "predict": "select?y where { <广州失恋博物馆> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 5).?y <类型> <景点>.}"}
+{"label": "aaaaa", "predict": "select?x where { <名人国际大酒店> <城市>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <开封中州国际饭店> <智能门锁>?y. }"}
+{"label": "aaaaa", "predict": "select?y where { <天津独角兽星空艺术馆> <附近>?cvt.?cvt <实体名称>?y.?y <是否有酒店> <酒店>.?y <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?y where { <南京博物院> <附近>?cvt.?cvt <实体名称>?y.?y <是否有健身房> <有健身房>.?y <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?x where { <壶山温泉> <娱乐项目名称> <电玩游戏厅>. <电玩游戏厅> <营业时间>?x. }"}
+{"label": "aaaaa", "predict": "select?t where { <南京恋爱博物馆> <附近>?cvt.?cvt <实体名称> <永银钱币博物馆>.?cvt <距离值>?t.}"}
+{"label": "aaaaa", "predict": "select?x where { <壶山温泉> <是否有自拍杆>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <颐和园> <位于>?cvt. ?cvt <实体名称> <凤凰中心>. ?cvt <方向>?x }"}
+{"label": "aaaaa", "predict": "select?x where { <紫金山探险公园> <城市> <南京>. <紫金山探险公园> <最佳游玩时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <布达拉宫> <地址>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <湖南博物馆> <是否免费>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <南京绿地洲际酒店> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 5).?y <城市> <南京>.?y <类型> <景点>.}"}
+{"label": "aaaaa", "predict": "select?x where { <梵高星空美术> <是否有母婴室>?x.  }"}
+{"label": "aaaaa", "predict": "select?x where { <思南九天温泉酒店> <地址>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <故宫博物院> <文化程度>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京中奥马哥孛罗大酒店> <早餐价格>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <思丽卡尔顿酒店> <酒店退房时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <御水温泉度假酒店> <平均价格>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <颐和园> <娱乐项目名称> <玉澜堂>. <玉澜堂> <项目短描述>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <九寨沟风景区> <交通信息>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <北京天伦王朝酒店> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 2).?y <城市> <北京>.?y <类型> <景点>.}"}
+{"label": "aaaaa", "predict": "select?x where { <苏州吴宫泛太平洋酒店> <是否有游泳池>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <北京伯豪瑞廷酒店> <酒店品牌名称>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <森泊幻想岛> <官方门票数据>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <北京希尔顿酒店> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 5).?y <城市> <北京>.?y <平均价格>?price. filter(?price < 100) }"}
+{"label": "aaaaa", "predict": "select?x where { <赛里木湖风景区> <景点的等级A> \"4A\". <赛里木湖风景区> <城市>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <珠海来魅力假日酒店> <房型名称>?y.?y <娱乐设备> \"影音\". }"}
+{"label": "aaaaa", "predict": "select?x where {?x <城市> <北京>.?x <景点的等级A> \"5A\". }"}
+{"label": "aaaaa", "predict": "select?y where { <国贸大酒店> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 5).?y <城市> <北京>.?y <类型> <景点>.}"}
+{"label": "aaaaa", "predict": "select?y where {?y <城市> <上虞区>.?y <酒店品牌名称> <上虞宾馆>. }"}
+{"label": "aaaaa", "predict": "select?x where { <九寨沟风景区> <城市>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <纳木错> <是否有婴儿车租赁>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <天坛公园> <位于>?cvt. ?cvt <实体名称> <北京饭店>. ?cvt <方向>?x }"}
+{"label": "aaaaa", "predict": "select?x where { <天津金皇大酒店> <电话>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <北京嘉里大酒店> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 5).?y <类型> <景点>.}"}
+{"label": "aaaaa", "predict": "select?x where { <贵阳世纪金源大饭店> <平均价格>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <西安梦幻星空抖乐园（钟楼旗舰店）> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 10).?y <城市> <西安>.?y <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?x where { <大庆市博物馆> <电话>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <长春安哥拉巨兔体验馆> <是否有wifi服务>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <西湖风景名胜区> <城市>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <厦门时空魔方艺术馆> <是否免费>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <丽江泸沽湖景区> <交通信息>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <金茂北京威斯汀大饭店> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 5000).?y <城市> <北京>.?y <类型> <景点>.?y <平均价格>?price. filter(?price < 100) }"}
+{"label": "aaaaa", "predict": "select?x where {?x <城市> <天津>.?x <是否有ktv> <有ktv>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <城市> <大连>.?x <是否有停车场> <有停车场>.?x <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?x where { <蓝月谷> <景点的适宜季节>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <喀纳斯景区> <建议游玩时长>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <城市> <拉萨>.?x <酒店品牌名称> <瑞吉>. }"}
+{"label": "aaaaa", "predict": "select?x where { <湖南省博物馆> <建议游玩时长>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <流动的永恒> <举办地点>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <故宫博物院> <城市>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <国家大剧院> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 2).?y <城市> <北京>.?y <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?y where { <金狮国际酒店> <房型名称>?y.?y <容纳人数> \"5.0\"^^<http://www.w3.org/2001/XMLSchema#float>.}"}
+{"label": "aaaaa", "predict": "select?x where { <厦门悦华酒店> <入住年龄限制>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <天津梵高星空艺术馆（天河城旗舰店）> <附近>?cvt.?cvt <实体名称> <天津梵高星空艺术馆>.?cvt <方向>?direction.?direction <类型> <景点>.?character <景点> <天津梵高星空艺术馆>.?character <实体数据>?entity.?character <优惠信息>?x. }"}
+{"label": "aaaaa", "predict": "select (count(?x) as?count_city) where { ?x <城市> <西安>. ?x <酒店品牌名称> <皇冠假日>.?x <类型> <酒店>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <城市> <泰安>.?x <酒店品牌名称> <华美达>. }"}
+{"label": "aaaaa", "predict": "select?y where { <南京博物院> <附近>?cvt.?cvt <实体名称>?y.?cvt <距离值>?distance. filter(?distance <= 1).?y <城市> <南京>.?y <类型> <酒店>.}"}
+{"label": "aaaaa", "predict": "select?x where { <国家地理探险家中心> <营业时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <苏仙区公安局> <地址>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <苏仙区> <常住人口>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <街道> <苏仙区>.?x <是否公立> \"是\".?x <类型> <学院>. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <所属地区> <郴州市>.?x <创办时间> \"1943\". }"}
+{"label": "aaaaa", "predict": "select?x where {?x <现任任职> <乔山画院校长>. }"}
+{"label": "aaaaa", "predict": "select?x where { <netbox> <支持VBScript>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <2012-2013中国大学及学科专业评估报告> <第五名>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <中文名> \"刀剑\".?x <书名>?y.?y <中文名>?z. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <职业> <导演>.?x <毕业院校> <湖南大学>. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <毕业院校> <湖南大学>.?y <职业> <导演_（职业名称）>.?y <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <圣经> <希伯来语>?x. }"}
+{"label": "aaaaa", "predict": "select?x where { <英汉分子生物学百科辞典> <页数>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <职业> <歌手_（职业名称）>.?x <出生日期> <1990_（年）>. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <出生日期> \"1990-01-01\".?y <职业> <歌手_（职业名称）>.?y <代表作品>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <出版社> <民主与建设出版社>.?x <页数> \"325\". }"}
+{"label": "aaaaa", "predict": "select?y where { <杏花轩笔记> <定价>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <职业> <小说家>.?x <职业> <电影导演>. }"}
+{"label": "aaaaa", "predict": "select?x where { <卡尔·马克思·恩格斯> <国籍>?y.?x <职业> <化学家>.?x <职业> <化学家>.?x <国籍>?y. }"}
+{"label": "aaaaa", "predict": "select?y where { <诗经_（中国先秦时期一部诗歌总集）> <创作年代>?x.?x <政治制度>?y. }"}
+{"label": "aaaaa", "predict": "select?x where {?y <外文名> \"Fenghao\".?y <发现时间>?x. }"}
+{"label": "aaaaa", "predict": "select?y where { <滴丸> <首次时间>?x.?x <春节日期>?y. }"}
+{"label": "aaaaa", "predict": "select?x where { <第二国际> <成立时间>?x. <第二国际国际大会> <开幕时间>?x. }"}
+{"label": "aaaaa", "predict": "select?x where {?x <主要角色> <功夫_（中国香港电影）>.?x <外文名> \"master\". }"}
+{"label": "aaaaa", "predict": "select?x where {?y <建校时间>?x.?y <外文名> \"love\".?y <中文名>?name.?y <出品时间>?x. }"}

@@ -352,6 +352,3 @@ This repo benefits from [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B), [Chat
 ## Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=hiyouga/ChatGLM-Efficient-Tuning&type=Date)
-#   C h a t G L M - E f f i c i e n t - T u n i n g - m a i n  
- #   C h a t G L M - E f f i c i e n t - T u n i n g - m a i n  
- 

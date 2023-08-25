@@ -1,0 +1,255 @@
+07/18/2023 06:18:24 - WARNING - pet.core.parse - `ddp_find_unused_parameters` needs to be set as False in DDP training.
+07/18/2023 06:18:24 - INFO - pet.core.parse - Process rank: 0, device: cuda:0, n_gpu: 1
+  distributed training: True, 16-bits training: False
+07/18/2023 06:18:24 - INFO - pet.core.parse - Training/evaluation parameters Seq2SeqTrainingArguments(
+_n_gpu=1,
+adafactor=False,
+adam_beta1=0.9,
+adam_beta2=0.999,
+adam_epsilon=1e-08,
+auto_find_batch_size=False,
+bf16=False,
+bf16_full_eval=False,
+data_seed=None,
+dataloader_drop_last=False,
+dataloader_num_workers=0,
+dataloader_pin_memory=True,
+ddp_backend=None,
+ddp_bucket_cap_mb=None,
+ddp_find_unused_parameters=False,
+ddp_timeout=1800,
+debug=[],
+deepspeed=None,
+disable_tqdm=False,
+do_eval=False,
+do_predict=True,
+do_train=False,
+eval_accumulation_steps=None,
+eval_delay=0,
+eval_steps=None,
+evaluation_strategy=no,
+fp16=False,
+fp16_backend=auto,
+fp16_full_eval=False,
+fp16_opt_level=O1,
+fsdp=[],
+fsdp_config={'fsdp_min_num_params': 0, 'xla': False, 'xla_fsdp_grad_ckpt': False},
+fsdp_min_num_params=0,
+fsdp_transformer_layer_cls_to_wrap=None,
+full_determinism=False,
+generation_config=None,
+generation_max_length=None,
+generation_num_beams=None,
+gradient_accumulation_steps=1,
+gradient_checkpointing=False,
+greater_is_better=None,
+group_by_length=False,
+half_precision_backend=auto,
+hub_model_id=None,
+hub_private_repo=False,
+hub_strategy=every_save,
+hub_token=<HUB_TOKEN>,
+ignore_data_skip=False,
+include_inputs_for_metrics=False,
+jit_mode_eval=False,
+label_names=None,
+label_smoothing_factor=0.0,
+learning_rate=5e-05,
+length_column_name=length,
+load_best_model_at_end=False,
+local_rank=0,
+log_level=passive,
+log_level_replica=warning,
+log_on_each_node=True,
+logging_dir=evaluation_WebQSP_ChatGLMv2_lora_epoch100/runs/Jul18_06-18-24_bupt,
+logging_first_step=False,
+logging_nan_inf_filter=True,
+logging_steps=500,
+logging_strategy=steps,
+lr_scheduler_type=linear,
+max_grad_norm=1.0,
+max_steps=-1,
+metric_for_best_model=None,
+mp_parameters=,
+no_cuda=False,
+num_train_epochs=3.0,
+optim=adamw_torch,
+optim_args=None,
+output_dir=evaluation_WebQSP_ChatGLMv2_lora_epoch100,
+overwrite_output_dir=False,
+past_index=-1,
+per_device_eval_batch_size=8,
+per_device_train_batch_size=8,
+predict_with_generate=True,
+prediction_loss_only=False,
+push_to_hub=False,
+push_to_hub_model_id=None,
+push_to_hub_organization=None,
+push_to_hub_token=<PUSH_TO_HUB_TOKEN>,
+ray_scope=last,
+remove_unused_columns=True,
+report_to=[],
+resume_from_checkpoint=None,
+run_name=evaluation_WebQSP_ChatGLMv2_lora_epoch100,
+save_on_each_node=False,
+save_safetensors=False,
+save_steps=500,
+save_strategy=steps,
+save_total_limit=None,
+seed=42,
+sharded_ddp=[],
+skip_memory_metrics=True,
+sortish_sampler=False,
+tf32=None,
+torch_compile=False,
+torch_compile_backend=None,
+torch_compile_mode=None,
+torchdynamo=None,
+tpu_metrics_debug=False,
+tpu_num_cores=None,
+use_ipex=False,
+use_legacy_prediction_loop=False,
+use_mps_device=False,
+warmup_ratio=0.0,
+warmup_steps=0,
+weight_decay=0.0,
+xpu_backend=None,
+)
+07/18/2023 06:18:24 - INFO - dsets.loader - Loading dataset WebQSP_test.json...
+07/18/2023 06:18:24 - WARNING - dsets.loader - Checksum failed: missing SHA-1 hash value in dataset_info.json or too many files.
+07/18/2023 06:18:34 - INFO - datasets.builder - Using custom data configuration default-15b6b2f934c1af7b
+07/18/2023 06:18:34 - INFO - datasets.info - Loading Dataset Infos from /home/guozeyuan/miniconda3/envs/eglm/lib/python3.10/site-packages/datasets/packaged_modules/json
+07/18/2023 06:18:34 - INFO - datasets.builder - Overwrite dataset info from restored data version if exists.
+07/18/2023 06:18:34 - INFO - datasets.info - Loading Dataset info from /home/guozeyuan/.cache/huggingface/datasets/json/default-15b6b2f934c1af7b/0.0.0/8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96
+07/18/2023 06:18:34 - WARNING - datasets.builder - Found cached dataset json (/home/guozeyuan/.cache/huggingface/datasets/json/default-15b6b2f934c1af7b/0.0.0/8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96)
+07/18/2023 06:18:34 - INFO - datasets.info - Loading Dataset info from /home/guozeyuan/.cache/huggingface/datasets/json/default-15b6b2f934c1af7b/0.0.0/8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 335.25it/s]
+[INFO|tokenization_utils_base.py:1823] 2023-07-18 06:18:35,174 >> loading file tokenizer.model from cache at /home/guozeyuan/.cache/huggingface/hub/models--THUDM--chatglm2-6b/snapshots/4e38bef4c028beafc8fb1837462f74c02e68fcc2/tokenizer.model
+[INFO|tokenization_utils_base.py:1823] 2023-07-18 06:18:35,174 >> loading file added_tokens.json from cache at None
+[INFO|tokenization_utils_base.py:1823] 2023-07-18 06:18:35,174 >> loading file special_tokens_map.json from cache at None
+[INFO|tokenization_utils_base.py:1823] 2023-07-18 06:18:35,174 >> loading file tokenizer_config.json from cache at /home/guozeyuan/.cache/huggingface/hub/models--THUDM--chatglm2-6b/snapshots/4e38bef4c028beafc8fb1837462f74c02e68fcc2/tokenizer_config.json
+[INFO|configuration_utils.py:669] 2023-07-18 06:18:35,492 >> loading configuration file config.json from cache at /home/guozeyuan/.cache/huggingface/hub/models--THUDM--chatglm2-6b/snapshots/4e38bef4c028beafc8fb1837462f74c02e68fcc2/config.json
+[INFO|configuration_utils.py:669] 2023-07-18 06:18:35,983 >> loading configuration file config.json from cache at /home/guozeyuan/.cache/huggingface/hub/models--THUDM--chatglm2-6b/snapshots/4e38bef4c028beafc8fb1837462f74c02e68fcc2/config.json
+[INFO|configuration_utils.py:725] 2023-07-18 06:18:35,984 >> Model config ChatGLMConfig {
+  "_name_or_path": "THUDM/chatglm2-6b",
+  "add_bias_linear": false,
+  "add_qkv_bias": true,
+  "apply_query_key_layer_scaling": true,
+  "apply_residual_connection_post_layernorm": false,
+  "architectures": [
+    "ChatGLMModel"
+  ],
+  "attention_dropout": 0.0,
+  "attention_softmax_in_fp32": true,
+  "auto_map": {
+    "AutoConfig": "THUDM/chatglm2-6b--configuration_chatglm.ChatGLMConfig",
+    "AutoModel": "THUDM/chatglm2-6b--modeling_chatglm.ChatGLMForConditionalGeneration",
+    "AutoModelForCausalLM": "THUDM/chatglm2-6b--modeling_chatglm.ChatGLMForConditionalGeneration",
+    "AutoModelForSeq2SeqLM": "THUDM/chatglm2-6b--modeling_chatglm.ChatGLMForConditionalGeneration"
+  },
+  "bias_dropout_fusion": true,
+  "eos_token_id": 2,
+  "ffn_hidden_size": 13696,
+  "fp32_residual_connection": false,
+  "hidden_dropout": 0.0,
+  "hidden_size": 4096,
+  "kv_channels": 128,
+  "layernorm_epsilon": 1e-05,
+  "model_type": "chatglm",
+  "multi_query_attention": true,
+  "multi_query_group_num": 2,
+  "num_attention_heads": 32,
+  "num_layers": 28,
+  "original_rope": true,
+  "pad_token_id": 0,
+  "padded_vocab_size": 65024,
+  "post_layer_norm": true,
+  "pre_seq_len": null,
+  "prefix_projection": false,
+  "quantization_bit": 0,
+  "rmsnorm": true,
+  "seq_length": 32768,
+  "tie_word_embeddings": false,
+  "torch_dtype": "float16",
+  "transformers_version": "4.30.2",
+  "use_cache": true,
+  "vocab_size": 65024
+}
+
+[INFO|modeling_utils.py:2578] 2023-07-18 06:18:36,361 >> loading weights file pytorch_model.bin from cache at /home/guozeyuan/.cache/huggingface/hub/models--THUDM--chatglm2-6b/snapshots/4e38bef4c028beafc8fb1837462f74c02e68fcc2/pytorch_model.bin.index.json
+[INFO|configuration_utils.py:577] 2023-07-18 06:18:36,363 >> Generate config GenerationConfig {
+  "_from_model_config": true,
+  "eos_token_id": 2,
+  "pad_token_id": 0,
+  "transformers_version": "4.30.2"
+}
+
+Loading checkpoint shards:   0%|          | 0/7 [00:00<?, ?it/s]Loading checkpoint shards:  14%|█▍        | 1/7 [00:03<00:22,  3.83s/it]Loading checkpoint shards:  29%|██▊       | 2/7 [00:11<00:31,  6.38s/it]Loading checkpoint shards:  43%|████▎     | 3/7 [00:20<00:29,  7.42s/it]Loading checkpoint shards:  57%|█████▋    | 4/7 [00:25<00:19,  6.40s/it]Loading checkpoint shards:  71%|███████▏  | 5/7 [00:28<00:10,  5.19s/it]Loading checkpoint shards:  86%|████████▌ | 6/7 [00:32<00:04,  4.88s/it]Loading checkpoint shards: 100%|██████████| 7/7 [00:35<00:00,  4.26s/it]Loading checkpoint shards: 100%|██████████| 7/7 [00:35<00:00,  5.11s/it]
+[INFO|modeling_utils.py:3295] 2023-07-18 06:19:12,278 >> All model checkpoint weights were used when initializing ChatGLMForConditionalGeneration.
+
+[INFO|modeling_utils.py:3303] 2023-07-18 06:19:12,278 >> All the weights of ChatGLMForConditionalGeneration were initialized from the model checkpoint at THUDM/chatglm2-6b.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use ChatGLMForConditionalGeneration for predictions without further training.
+[INFO|modeling_utils.py:2927] 2023-07-18 06:19:12,527 >> Generation config file not found, using a generation config created from the model config.
+07/18/2023 06:19:12 - INFO - pet.core.adapter - Fine-tuning method: LoRA
+07/18/2023 06:19:27 - INFO - pet.core.adapter - Merged 1 model checkpoint(s).
+07/18/2023 06:19:27 - INFO - pet.core.adapter - Loaded fine-tuned model from checkpoint(s): checkpoint_WebQSP_ChatGLMv2_lora_epoch100
+trainable params: 0 || all params: 6243584000 || trainable%: 0.0000
+Running tokenizer on dataset:   0%|          | 0/1815 [00:00<?, ? examples/s]07/18/2023 06:19:27 - INFO - datasets.arrow_dataset - Caching processed dataset at /home/guozeyuan/.cache/huggingface/datasets/json/default-15b6b2f934c1af7b/0.0.0/8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96/cache-a4cbb5d875da3f74.arrow
+Running tokenizer on dataset:  55%|█████▌    | 1000/1815 [00:00<00:00, 1836.62 examples/s]Running tokenizer on dataset: 100%|██████████| 1815/1815 [00:00<00:00, 1857.97 examples/s]                                                                                          input_ids:
+[64790, 64792, 790, 30951, 517, 30910, 30939, 30996, 13, 13, 54761, 31211, 9398, 381, 260, 6303, 1568, 8539, 9065, 343, 15082, 1342, 267, 1097, 8386, 289, 267, 1845, 2021, 30954, 10542, 953, 467, 1897, 7154, 705, 2820, 13, 13, 55437, 31211]
+inputs:
+[Round 1]
+
+问：Generate a SPARQL query that retrieves the information corresponding to the given question:what does jamaican people speak
+
+答：
+label_ids:
+[64790, 64792, 22592, 367, 7489, 1327, 3889, 4350, 30948, 13, 17468, 8249, 729, 13, 30960, 3813, 6494, 359, 30987, 30948, 5136, 310, 30917, 30954, 30977, 1897, 2673, 30945, 13, 30960, 3813, 6494, 8984, 276, 30957, 275, 1957, 30946, 30987, 30948, 30945, 6172, 18824, 30946, 30987, 30948, 30945, 542, 12373, 6172, 18824, 11481, 2163, 30946, 13346, 30946, 30987, 30948, 685, 765, 272, 19006, 13, 5721, 30954, 30977, 1897, 2673, 310, 30917, 30954, 15954, 30930, 17407, 30930, 30920, 7819, 30962, 26247, 4350, 30948, 918, 13, 30983, 13]
+labels:
+SELECT DISTINCT ?x
+WHERE {
+FILTER (?x != ns:Jamaica)
+FILTER (!isLiteral(?x) OR lang(?x) = '' OR langMatches(lang(?x), 'en'))
+ns:Jamaica ns:location.country.languages_spoken ?x .
+}
+
+[INFO|trainer.py:3200] 2023-07-18 06:19:37,668 >> ***** Running Prediction *****
+[INFO|trainer.py:3202] 2023-07-18 06:19:37,668 >>   Num examples = 1815
+[INFO|trainer.py:3205] 2023-07-18 06:19:37,668 >>   Batch size = 8
+[INFO|configuration_utils.py:577] 2023-07-18 06:19:37,675 >> Generate config GenerationConfig {
+  "_from_model_config": true,
+  "eos_token_id": 2,
+  "pad_token_id": 0,
+  "transformers_version": "4.30.2"
+}
+
+  0%|          | 0/227 [00:00<?, ?it/s]  1%|          | 2/227 [00:27<50:38, 13.51s/it]  1%|▏         | 3/227 [00:40<50:34, 13.55s/it]  2%|▏         | 4/227 [01:07<1:08:51, 18.53s/it]  2%|▏         | 5/227 [01:18<59:01, 15.95s/it]    3%|▎         | 6/227 [01:30<54:04, 14.68s/it]  3%|▎         | 7/227 [01:55<1:05:33, 17.88s/it]  4%|▎         | 8/227 [02:08<59:15, 16.24s/it]    4%|▍         | 9/227 [02:17<51:38, 14.21s/it]  4%|▍         | 10/227 [02:29<48:56, 13.53s/it]  5%|▍         | 11/227 [02:36<41:38, 11.57s/it]  5%|▌         | 12/227 [02:46<39:13, 10.95s/it]  6%|▌         | 13/227 [03:11<54:22, 15.25s/it]  6%|▌         | 14/227 [03:38<1:06:12, 18.65s/it]  7%|▋         | 15/227 [04:00<1:09:29, 19.67s/it]  7%|▋         | 16/227 [04:12<1:01:02, 17.36s/it]  7%|▋         | 17/227 [04:38<1:10:34, 20.17s/it]  8%|▊         | 18/227 [04:49<59:56, 17.21s/it]    8%|▊         | 19/227 [04:58<51:08, 14.75s/it]  9%|▉         | 20/227 [05:23<1:02:08, 18.01s/it]  9%|▉         | 21/227 [05:50<1:11:07, 20.71s/it] 10%|▉         | 22/227 [06:00<59:49, 17.51s/it]   10%|█         | 23/227 [06:25<1:06:34, 19.58s/it] 11%|█         | 24/227 [06:35<56:24, 16.67s/it]   11%|█         | 25/227 [07:00<1:04:51, 19.27s/it] 11%|█▏        | 26/227 [07:10<55:25, 16.54s/it]   12%|█▏        | 27/227 [07:22<50:48, 15.24s/it] 12%|█▏        | 28/227 [07:31<43:35, 13.14s/it] 13%|█▎        | 29/227 [07:44<43:13, 13.10s/it] 13%|█▎        | 30/227 [07:55<41:06, 12.52s/it] 14%|█▎        | 31/227 [08:08<41:28, 12.70s/it] 14%|█▍        | 32/227 [08:18<38:23, 11.81s/it] 15%|█▍        | 33/227 [08:41<49:41, 15.37s/it] 15%|█▍        | 34/227 [09:08<1:00:50, 18.91s/it] 15%|█▌        | 35/227 [09:17<50:54, 15.91s/it]   16%|█▌        | 36/227 [09:27<45:03, 14.15s/it] 16%|█▋        | 37/227 [09:39<42:15, 13.35s/it] 17%|█▋        | 38/227 [10:01<50:48, 16.13s/it] 17%|█▋        | 39/227 [10:27<59:15, 18.91s/it] 18%|█▊        | 40/227 [10:37<51:09, 16.42s/it] 18%|█▊        | 41/227 [10:46<43:38, 14.08s/it] 19%|█▊        | 42/227 [11:12<53:55, 17.49s/it] 19%|█▉        | 43/227 [11:22<46:49, 15.27s/it] 19%|█▉        | 44/227 [11:32<42:19, 13.88s/it] 20%|█▉        | 45/227 [11:57<52:19, 17.25s/it] 20%|██        | 46/227 [12:11<48:41, 16.14s/it] 21%|██        | 47/227 [12:21<42:59, 14.33s/it] 21%|██        | 48/227 [12:31<38:46, 13.00s/it] 22%|██▏       | 49/227 [12:39<34:18, 11.56s/it] 22%|██▏       | 50/227 [12:49<32:28, 11.01s/it] 22%|██▏       | 51/227 [12:59<31:19, 10.68s/it] 23%|██▎       | 52/227 [13:24<43:45, 15.00s/it] 23%|██▎       | 53/227 [13:35<40:12, 13.86s/it] 24%|██▍       | 54/227 [13:46<37:10, 12.89s/it] 24%|██▍       | 55/227 [13:56<34:27, 12.02s/it] 25%|██▍       | 56/227 [14:03<29:50, 10.47s/it] 25%|██▌       | 57/227 [14:29<43:22, 15.31s/it] 26%|██▌       | 58/227 [14:39<38:50, 13.79s/it] 26%|██▌       | 59/227 [15:04<47:36, 17.00s/it] 26%|██▋       | 60/227 [15:13<40:56, 14.71s/it] 27%|██▋       | 61/227 [15:24<37:49, 13.67s/it] 27%|██▋       | 62/227 [15:48<45:37, 16.59s/it] 28%|██▊       | 63/227 [15:58<40:01, 14.65s/it] 28%|██▊       | 64/227 [16:25<49:36, 18.26s/it] 29%|██▊       | 65/227 [16:32<40:47, 15.11s/it] 29%|██▉       | 66/227 [16:56<47:21, 17.65s/it] 30%|██▉       | 67/227 [17:07<41:29, 15.56s/it] 30%|██▉       | 68/227 [17:17<37:08, 14.02s/it] 30%|███       | 69/227 [17:28<34:15, 13.01s/it] 31%|███       | 70/227 [17:38<31:46, 12.14s/it] 31%|███▏      | 71/227 [18:05<42:55, 16.51s/it] 32%|███▏      | 72/227 [18:16<38:21, 14.85s/it] 32%|███▏      | 73/227 [18:40<45:49, 17.85s/it] 33%|███▎      | 74/227 [19:08<52:42, 20.67s/it] 33%|███▎      | 75/227 [19:17<43:54, 17.33s/it] 33%|███▎      | 76/227 [19:45<51:16, 20.37s/it] 34%|███▍      | 77/227 [20:11<55:04, 22.03s/it] 34%|███▍      | 78/227 [20:22<46:47, 18.84s/it] 35%|███▍      | 79/227 [20:37<43:39, 17.70s/it] 35%|███▌      | 80/227 [21:05<50:35, 20.65s/it] 36%|███▌      | 81/227 [21:16<43:35, 17.91s/it] 36%|███▌      | 82/227 [21:27<38:33, 15.95s/it] 37%|███▋      | 83/227 [21:54<45:37, 19.01s/it] 37%|███▋      | 84/227 [22:18<49:31, 20.78s/it] 37%|███▋      | 85/227 [22:31<43:28, 18.37s/it] 38%|███▊      | 86/227 [22:56<47:37, 20.26s/it] 38%|███▊      | 87/227 [23:17<48:06, 20.61s/it] 39%|███▉      | 88/227 [23:31<43:04, 18.59s/it] 39%|███▉      | 89/227 [23:43<38:06, 16.57s/it] 40%|███▉      | 90/227 [23:53<33:05, 14.50s/it] 40%|████      | 91/227 [24:18<40:09, 17.72s/it] 41%|████      | 92/227 [24:44<45:16, 20.12s/it] 41%|████      | 93/227 [25:11<49:46, 22.29s/it] 41%|████▏     | 94/227 [25:21<41:27, 18.70s/it] 42%|████▏     | 95/227 [25:48<46:38, 21.20s/it] 42%|████▏     | 96/227 [25:57<38:06, 17.46s/it] 43%|████▎     | 97/227 [26:07<33:06, 15.28s/it] 43%|████▎     | 98/227 [26:21<32:02, 14.91s/it] 44%|████▎     | 99/227 [26:51<40:56, 19.19s/it] 44%|████▍     | 100/227 [27:03<36:20, 17.17s/it] 44%|████▍     | 101/227 [27:30<42:31, 20.25s/it] 45%|████▍     | 102/227 [27:57<45:50, 22.01s/it] 45%|████▌     | 103/227 [28:05<36:52, 17.84s/it] 46%|████▌     | 104/227 [28:15<31:45, 15.49s/it] 46%|████▋     | 105/227 [28:40<37:14, 18.32s/it] 47%|████▋     | 106/227 [29:08<43:04, 21.36s/it] 47%|████▋     | 107/227 [29:17<35:28, 17.74s/it] 48%|████▊     | 108/227 [29:28<30:48, 15.53s/it] 48%|████▊     | 109/227 [29:52<35:38, 18.12s/it] 48%|████▊     | 110/227 [30:18<40:13, 20.63s/it] 49%|████▉     | 111/227 [30:31<35:08, 18.18s/it] 49%|████▉     | 112/227 [30:41<30:08, 15.73s/it] 50%|████▉     | 113/227 [31:04<33:58, 17.88s/it] 50%|█████     | 114/227 [31:14<29:31, 15.68s/it] 51%|█████     | 115/227 [31:37<33:18, 17.84s/it] 51%|█████     | 116/227 [32:03<37:17, 20.15s/it] 52%|█████▏    | 117/227 [32:13<31:33, 17.21s/it] 52%|█████▏    | 118/227 [32:23<27:27, 15.11s/it] 52%|█████▏    | 119/227 [32:50<33:33, 18.64s/it] 53%|█████▎    | 120/227 [33:00<28:46, 16.13s/it] 53%|█████▎    | 121/227 [33:13<26:25, 14.96s/it] 54%|█████▎    | 122/227 [33:23<23:43, 13.55s/it] 54%|█████▍    | 123/227 [33:48<29:23, 16.96s/it] 55%|█████▍    | 124/227 [33:58<25:49, 15.05s/it] 55%|█████▌    | 125/227 [34:10<23:36, 13.88s/it] 56%|█████▌    | 126/227 [34:25<24:09, 14.35s/it] 56%|█████▌    | 127/227 [34:51<29:34, 17.74s/it] 56%|█████▋    | 128/227 [35:04<26:50, 16.27s/it] 57%|█████▋    | 129/227 [35:13<23:03, 14.11s/it] 57%|█████▋    | 130/227 [35:40<29:04, 17.98s/it] 58%|█████▊    | 131/227 [35:49<24:46, 15.49s/it] 58%|█████▊    | 132/227 [35:57<20:45, 13.11s/it] 59%|█████▊    | 133/227 [36:22<26:14, 16.75s/it] 59%|█████▉    | 134/227 [36:49<30:37, 19.76s/it] 59%|█████▉    | 135/227 [36:59<25:51, 16.86s/it] 60%|█████▉    | 136/227 [37:10<23:09, 15.26s/it] 60%|██████    | 137/227 [37:35<27:06, 18.07s/it] 61%|██████    | 138/227 [37:46<23:41, 15.97s/it] 61%|██████    | 139/227 [38:11<27:19, 18.63s/it] 62%|██████▏   | 140/227 [38:37<30:01, 20.71s/it] 62%|██████▏   | 141/227 [38:48<25:48, 18.01s/it] 63%|██████▎   | 142/227 [38:56<21:14, 15.00s/it] 63%|██████▎   | 143/227 [39:07<19:24, 13.86s/it] 63%|██████▎   | 144/227 [39:16<16:45, 12.11s/it] 64%|██████▍   | 145/227 [39:26<15:58, 11.68s/it] 64%|██████▍   | 146/227 [39:37<15:13, 11.28s/it] 65%|██████▍   | 147/227 [39:46<14:22, 10.78s/it] 65%|██████▌   | 148/227 [39:58<14:31, 11.03s/it] 66%|██████▌   | 149/227 [40:07<13:36, 10.47s/it] 66%|██████▌   | 150/227 [40:32<19:13, 14.98s/it] 67%|██████▋   | 151/227 [40:42<16:47, 13.25s/it] 67%|██████▋   | 152/227 [41:09<21:45, 17.41s/it] 67%|██████▋   | 153/227 [41:18<18:30, 15.01s/it] 68%|██████▊   | 154/227 [41:30<17:10, 14.12s/it] 68%|██████▊   | 155/227 [41:57<21:25, 17.85s/it] 69%|██████▊   | 156/227 [42:24<24:21, 20.58s/it] 69%|██████▉   | 157/227 [42:50<25:50, 22.15s/it] 70%|██████▉   | 158/227 [43:00<21:27, 18.65s/it] 70%|███████   | 159/227 [43:12<18:53, 16.67s/it] 70%|███████   | 160/227 [43:38<21:34, 19.32s/it] 71%|███████   | 161/227 [44:02<23:01, 20.93s/it] 71%|███████▏  | 162/227 [44:29<24:39, 22.77s/it] 72%|███████▏  | 163/227 [44:43<21:28, 20.13s/it] 72%|███████▏  | 164/227 [45:08<22:37, 21.55s/it] 73%|███████▎  | 165/227 [45:31<22:48, 22.08s/it] 73%|███████▎  | 166/227 [45:56<23:08, 22.77s/it] 74%|███████▎  | 167/227 [46:05<18:48, 18.80s/it] 74%|███████▍  | 168/227 [46:14<15:28, 15.73s/it] 74%|███████▍  | 169/227 [46:39<17:59, 18.61s/it] 75%|███████▍  | 170/227 [46:49<15:09, 15.96s/it] 75%|███████▌  | 171/227 [47:11<16:39, 17.84s/it] 76%|███████▌  | 172/227 [47:24<15:05, 16.45s/it] 76%|███████▌  | 173/227 [47:35<13:06, 14.56s/it] 77%|███████▋  | 174/227 [47:44<11:34, 13.10s/it] 77%|███████▋  | 175/227 [48:10<14:33, 16.79s/it] 78%|███████▊  | 176/227 [48:23<13:22, 15.73s/it] 78%|███████▊  | 177/227 [48:49<15:43, 18.88s/it] 78%|███████▊  | 178/227 [49:01<13:34, 16.62s/it] 79%|███████▉  | 179/227 [49:13<12:16, 15.35s/it] 79%|███████▉  | 180/227 [49:24<11:03, 14.11s/it] 80%|███████▉  | 181/227 [49:35<10:04, 13.15s/it] 80%|████████  | 182/227 [49:46<09:19, 12.44s/it] 81%|████████  | 183/227 [49:57<08:54, 12.16s/it] 81%|████████  | 184/227 [50:09<08:39, 12.08s/it] 81%|████████▏ | 185/227 [50:20<08:05, 11.55s/it] 82%|████████▏ | 186/227 [50:46<10:59, 16.08s/it] 82%|████████▏ | 187/227 [50:57<09:37, 14.44s/it] 83%|████████▎ | 188/227 [51:24<11:52, 18.27s/it] 83%|████████▎ | 189/227 [51:35<10:15, 16.20s/it] 84%|████████▎ | 190/227 [52:01<11:39, 18.92s/it] 84%|████████▍ | 191/227 [52:11<09:50, 16.39s/it] 85%|████████▍ | 192/227 [52:24<08:57, 15.37s/it] 85%|████████▌ | 193/227 [52:48<10:11, 17.99s/it] 85%|████████▌ | 194/227 [53:13<11:03, 20.09s/it] 86%|████████▌ | 195/227 [53:25<09:18, 17.45s/it] 86%|████████▋ | 196/227 [53:36<08:09, 15.78s/it] 87%|████████▋ | 197/227 [53:46<06:53, 13.80s/it] 87%|████████▋ | 198/227 [54:13<08:34, 17.74s/it] 88%|████████▊ | 199/227 [54:38<09:20, 20.03s/it] 88%|████████▊ | 200/227 [55:03<09:42, 21.58s/it] 89%|████████▊ | 201/227 [55:13<07:47, 17.98s/it] 89%|████████▉ | 202/227 [55:25<06:49, 16.37s/it] 89%|████████▉ | 203/227 [55:52<07:46, 19.45s/it] 90%|████████▉ | 204/227 [56:02<06:22, 16.63s/it] 90%|█████████ | 205/227 [56:10<05:11, 14.17s/it] 91%|█████████ | 206/227 [56:20<04:31, 12.91s/it] 91%|█████████ | 207/227 [56:30<04:00, 12.00s/it] 92%|█████████▏| 208/227 [56:42<03:46, 11.92s/it] 92%|█████████▏| 209/227 [56:55<03:39, 12.21s/it] 93%|█████████▎| 210/227 [57:05<03:15, 11.47s/it] 93%|█████████▎| 211/227 [57:13<02:47, 10.46s/it] 93%|█████████▎| 212/227 [57:23<02:36, 10.46s/it] 94%|█████████▍| 213/227 [57:34<02:29, 10.67s/it] 94%|█████████▍| 214/227 [57:44<02:15, 10.46s/it] 95%|█████████▍| 215/227 [57:54<02:01, 10.10s/it] 95%|█████████▌| 216/227 [58:19<02:41, 14.67s/it] 96%|█████████▌| 217/227 [58:29<02:11, 13.17s/it] 96%|█████████▌| 218/227 [58:54<02:30, 16.73s/it] 96%|█████████▋| 219/227 [59:07<02:05, 15.64s/it] 97%|█████████▋| 220/227 [59:32<02:09, 18.54s/it] 97%|█████████▋| 221/227 [1:00:01<02:10, 21.80s/it] 98%|█████████▊| 222/227 [1:00:27<01:54, 22.92s/it] 98%|█████████▊| 223/227 [1:00:51<01:32, 23.11s/it] 99%|█████████▊| 224/227 [1:01:02<00:58, 19.62s/it] 99%|█████████▉| 225/227 [1:01:10<00:32, 16.17s/it]100%|█████████▉| 226/227 [1:01:20<00:14, 14.43s/it]100%|██████████| 227/227 [1:01:46<00:00, 17.88s/it]Building prefix dict from the default dictionary ...
+07/18/2023 07:21:55 - DEBUG - jieba - Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+07/18/2023 07:21:55 - DEBUG - jieba - Loading model from cache /tmp/jieba.cache
+Dumping model to file cache /tmp/jieba.cache
+07/18/2023 07:21:55 - DEBUG - jieba - Dumping model to file cache /tmp/jieba.cache
+Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/guozeyuan/miniconda3/envs/eglm/lib/python3.10/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpdqwsyzp1' -> '/tmp/jieba.cache'
+07/18/2023 07:21:55 - ERROR - jieba - Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/guozeyuan/miniconda3/envs/eglm/lib/python3.10/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpdqwsyzp1' -> '/tmp/jieba.cache'
+Loading model cost 0.566 seconds.
+07/18/2023 07:21:55 - DEBUG - jieba - Loading model cost 0.566 seconds.
+Prefix dict has been built successfully.
+07/18/2023 07:21:55 - DEBUG - jieba - Prefix dict has been built successfully.
+100%|██████████| 227/227 [1:02:04<00:00, 16.41s/it]
+***** predict metrics *****
+  predict_bleu-4             =    89.2878
+  predict_rouge-1            =    93.9588
+  predict_rouge-2            =    91.8952
+  predict_rouge-l            =    93.6232
+  predict_runtime            = 1:02:26.82
+  predict_samples_per_second =      0.484
+  predict_steps_per_second   =      0.061
+07/18/2023 07:22:04 - INFO - pet.sft.trainer - Saving prediction results to evaluation_WebQSP_ChatGLMv2_lora_epoch100/generated_predictions.jsonl
